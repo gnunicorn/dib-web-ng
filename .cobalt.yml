@@ -1,3 +1,14 @@
-name: cobalt blog
+name: Bundesministerium für Demokratie und Transparenz
+description: Die Webseite des neuen Bundesministerium für Demokratie und Transparenz
+
+
+
 source: "."
 dest: "./_site"
+sass:
+  style: Compressed
+
+ignore:
+  - "README.md"
+  - "LICENSE"
+  - "bootstrap-4.0.0-beta.3"
