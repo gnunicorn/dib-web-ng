@@ -69,6 +69,15 @@ body {
 	border-top: 5px solid $blue;
 }
 
+.navbar {
+	font-family: $headings-font-family;
+	font-size: 1.35em;
+
+	.nav-item {
+		margin-left: 1em;
+	}
+}
+
 footer.bd-footer {
 	background: $blue;
 	color: white;
