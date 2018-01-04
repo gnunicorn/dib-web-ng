@@ -1,6 +1,7 @@
 <div class="container bg-primary mb-5" style="
-    {% if backdrop %}background: url(/assets/images/backdrops/ministerium.jpg);{%endif%}
+    {% if backdrop %}background: url({{backdrop}});{%endif%}
     background-size: cover;
+    background-position: center center;
     min-height: 25em;
     display: flex;
     align-items: end;">

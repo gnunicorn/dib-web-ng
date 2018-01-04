@@ -1,6 +1,6 @@
 extends: page.liquid
 path: /ministerium/aufgaben-und-struktur/
-
+backdrop: /assets/images/backdrops/structures.jpg
 title: "Aufgaben und Struktur"
 
 breadcrumb:
