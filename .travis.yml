@@ -4,7 +4,7 @@ addons:
   ssh_known_hosts: nick.bewegung.jetzt
 
 env:
-- COBALT_BUILD_DIR: site
+- COBALT_BUILD_DIR: _site
 before_script:
 - cargo install cobalt-bin --features sass
 - export PATH="$PATH:/home/travis/.cargo/bin"
@@ -20,7 +20,7 @@ before_deploy:
 deploy:
   provider: script
   skip_cleanup: true
-  script: "rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/ 
+  script: "rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/$COBALT_BUILD_DIR
 root@nick.bewegung.jetzt:/var/dib/bmdt/site"
   on:
     branch: master
