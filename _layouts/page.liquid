@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    {% include header.html %}
+  </head>
+  <body>
+
+    <a id="skippy" class="sr-only sr-only-focusable" href="#content">
+      <div class="container">
+        <span class="skiplink-text">Skip to main content</span>
+      </div>
+    </a>
+    
+    {% include nav.html %}
+
+    {% include breadcrumb.html with page=page %}
+
+
+    <main id="content" role="main">
+     <div class="container">
+        <h2>{{ title }}</h2>
+
+        {{content}}
+        
+      </div>
+
+    </main>
+
+    {% include footer.html %}
+    {% include scripts.html %}
+  </body>
+</html>
