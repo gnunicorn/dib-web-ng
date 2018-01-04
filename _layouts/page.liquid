@@ -13,12 +13,12 @@
     
     {% include nav.html %}
 
-    {% include breadcrumb.html with page=page %}
+    {% include breadcrumb.html %}
 
 
     <main id="content" role="main">
+      {% include page_head.html %}
      <div class="container">
-        <h2>{{ title }}</h2>
 
         {{content}}
         
