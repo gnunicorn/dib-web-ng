@@ -6,8 +6,7 @@ backdrop: /assets/images/backdrops/ministerium.jpg
 pages:
  - name: Der Minister
    url: /ministerium/minister/
-   img: ""
-   desc: ""
+   img: "/assets/images/heiko-maas.jpg"
  - name: Aufgaben und Struktur
    url: "/ministerium/aufgaben-und-struktur/"
    img: "/assets/images/backdrops/structures.jpg"
