@@ -1,7 +1,7 @@
 extends: categorie.liquid
 
 title: "Themen"
-backdrop: /assets/images/backdrops/ministerium.jpg
+backdrop: /assets/images/backdrops/themen.jpg
 
 ---
 
