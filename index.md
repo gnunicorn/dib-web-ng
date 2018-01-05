@@ -97,43 +97,7 @@ extends: default.liquid
     </p>
   </div>
 </div>
-
 <div class="container">
   <h3>Themen</h3>
-  <div class="row">
-    <div class="col-sm-4">
-      <a href="#" class="btn btn-light w-100 text-left mb-2 py-3 rounded-0"><img src="/assets/images/icons/icon_parteienfinanzierung.png" style="height: 2em" class="mr-2" alt="Icon: Parteienfinanzierung." />Reform der Parteienfinanzierung
-      </a>
-    </div>
-    <div class="col-sm-4">
-      <a href="#" class="btn btn-light w-100 text-left mb-2 py-3 rounded-0"><img src="/assets/images/icons/icon_nebeneinkuenfte.png" style="height: 2em" class="mr-2" alt="Icon: Nebeneinkünfte." />
-Nebeneinkünfte
-      </a>
-    </div>
-    <div class="col-sm-4">
-      <a href="#" class="btn btn-light w-100 text-left mb-2 py-3 rounded-0"><img src="/assets/images/icons/icon_lobbyregister.png" style="height: 2em" class="mr-2" alt="Icon: Lobbyregister." />
-Lobbyregister
-      </a>
-    </div>
-    <div class="col-sm-4">
-      <a href="#" class="btn btn-light w-100 text-left mb-2 py-3 rounded-0"><img src="/assets/images/icons/icon_ethik-kodex.png" style="height: 2em" class="mr-2" alt="Icon: Ethik-Kodex." />
-Ethik-Kodex
-      </a>
-    </div>
-    <div class="col-sm-4">
-      <a href="#" class="btn btn-light w-100 text-left mb-2 py-3 rounded-0"><img src="/assets/images/icons/icon_sperrklausel.png" style="height: 2em" class="mr-2" alt="Icon: Sperrklausel." />
-Sperrklausel
-      </a>
-    </div>
-    <div class="col-sm-4">
-      <a href="#" class="btn btn-light w-100 text-left mb-2 py-3 rounded-0"><img src="/assets/images/icons/icon_buergerkonvente.png" style="height: 2em" class="mr-2" alt="Icon: Bürgerkonvente." />
-Bürgerkonvente
-      </a>
-    </div>
-    <div class="col-sm-4">
-      <a href="#" class="btn btn-light w-100 text-left mb-2 py-3 rounded-0"><img src="/assets/images/icons/icon_buergerentscheide.png" style="height: 2em" class="mr-2" alt="Icon: Bürgerentscheide." />
-Bürgerentscheide
-      </a>
-    </div>
-  </div>
+  {% include themen-nav.html %}
 </div>

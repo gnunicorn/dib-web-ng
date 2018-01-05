@@ -22,23 +22,24 @@
         {{content}}        
       </div>
 
-      <div class="container">
+      {% if pages %}
+        <div class="container">
+          <div class="card-deck">        
+            {% for sub in pages %}
+              <div class="card">
+                <a href="{{sub.url}}">
+                  <img class="card-img-top" src="{{sub.img}}" alt="{{sub.name}}"/>
+                  <div class="card-body">
+                      <h4>{{sub.name}}</h4>
+                      <p>{{sub.desc}}</p>
+                  </div>
+                </a>
+              </div>
+            {% endfor %}
+          </div>
 
-        <div class="card-deck">        
-          {% for sub in pages %}
-            <div class="card">
-              <a href="{{sub.url}}">
-                <img class="card-img-top" src="{{sub.img}}" alt="{{sub.name}}"/>
-                <div class="card-body">
-                    <h4>{{sub.name}}</h4>
-                    <p>{{sub.desc}}</p>
-                </div>
-              </a>
-            </div>
-          {% endfor %}
         </div>
-
-      </div>
+      {% endif %}
 
     </main>
 
