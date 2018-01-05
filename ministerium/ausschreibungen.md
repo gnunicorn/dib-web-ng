@@ -11,3 +11,44 @@ breadcrumb:
 
 ---
 
+_Das Ministerium hat aktuell die folgenden Ausschreibungen offen:_
+
+---
+
+### Organisation und Durchführung des 1. Bürgerkonvent der Bundesrepublik Deutschland - Vergabenummer: B I 1 - VSt. 1021/2018
+
+#### Auftragsgegenstand:
+Gegenstand der Beschaffung ist die Organisation und Durchführung eines Bürgerkonvents mit dem Titel: “Fluchtursachen- was kann Deutschland tun?” Die Leistung ist im Zeitraum vom Zeitpunkt des Zuschlags (Zugang des Zuschlagsschreibens) bis zum 31.12.2018 zu erbringen.
+
+#### Ablauf der Angebotsfrist:
+31. Januar 2018, 10:00 Uhr
+
+#### Ort der Ablieferung der Leistung:
+Berlin bzw. Sitz des Auftragnehmers
+
+---
+
+### Entwicklung, Bereitstellung und Pflege/ Wartung einer Datenbank für Interessenvertretung (“Lobbyregister”)
+
+#### Auftragsgegenstand:
+Gegenstand der Beschaffung ist die Entwicklung, Bereitstellung und Pflege/ Wartung einer Datenbank für Interessenvertretung (“Lobbyregister”). Die Leistung ist im Zeitraum vom Zeitpunkt des Zuschlags (Zugang des Zuschlagsschreibens) bis zum 31.12.2019 zu erbringen.
+
+#### Ablauf der Angebotsfrist:
+31. Januar 2018, 10:00 Uhr
+
+#### Ort der Ablieferung der Leistung:
+Berlin bzw. Sitz des Auftragnehmers
+
+---
+
+### Wissenschaftliche Unterstützung bei der Konzeption einer Fachanwendung für Online-Partizipation
+
+#### Auftragsgegenstand:
+Gegenstand der Beschaffung ist die wissenschaftliche Unterstützung bei der Konzeption einer Fachanwendung für Online-Partizipation. Die Leistung ist im Zeitraum vom Zeitpunkt des Zuschlags (Zugang des Zuschlagsschreibens) bis zum 31.03.2019 zu erbringen.
+
+#### Ablauf der Angebotsfrist:
+31. März 2018, 10:00 Uhr
+
+#### Ort der Ablieferung der Leistung:
+Berlin bzw. Sitz des Auftragnehmers
+
