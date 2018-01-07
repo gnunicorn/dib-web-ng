@@ -67,34 +67,34 @@ title: 'Startseite'
     <div class="row">
       <div class="col">
           <div class="card border-light mb-3" style="max-width: 18rem;">
-            <div class="card-header">1. Jan</div>
+            <div class="card-header">21. Jan</div>
             <div class="card-body">
               <h5 class="card-title">Neujahrsempfang</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <p class="card-text">Das Bundesministerium für Demokratie und Transparenz lädt ein zum Neujahrsempfang mit Vertretern aus Zivilgesellschaft und Politik.</p>
             </div>
           </div>
       </div>
       <div class="col">
           <div class="card border-light mb-3" style="max-width: 18rem;">
-            <div class="card-header">1. Jan</div>
+            <div class="card-header">23.-26. Jan</div>
             <div class="card-body">
-              <h5 class="card-title">Neujahrsempfang</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 class="card-title">World Democracy Summit</h5>
+              <p class="card-text">Diskutieren Sie in Davos über politische Bildung, Mitbestimmung im Alltag und Lobbyismus.</p>
             </div>
           </div>
       </div>
       <div class="col">
           <div class="card border-light mb-3" style="max-width: 18rem;">
-            <div class="card-header">1. Jan</div>
+            <div class="card-header">15. Sept</div>
             <div class="card-body">
-              <h5 class="card-title">Neujahrsempfang</h5>
-              <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+              <h5 class="card-title">Demokratiefestival vor dem Brandenburger Tor</h5>
+              <p class="card-text">Wir feiern die Demokratie! Mit einem großen Straßenfest vor dem Brandenburger Tor am internationalen Tag der Demokratie. </p>
             </div>
           </div>
       </div>
     </div>
     <p class="text-right">
-        <button type="button" class="btn btn-outline-primary">Mehr Veranstaltungen</button>
+        <a href="/service/veranstaltungen/" class="btn btn-outline-primary">Mehr Veranstaltungen</a>
     </p>
   </div>
 </div>
