@@ -12,7 +12,7 @@ pages:
    img: "/assets/images/backdrops/structures.jpg"
  - name: Organigram
    url: "/ministerium/organigram/"
-   img: "/assets/images/backdrops/organigram.png"
+   img: "/assets/images/backdrops/organigram.jpg"
  - name: Ausschreibungen
    url: "/ministerium/ausschreibungen/"
    img: "/assets/images/backdrops/proposal.jpg"
