@@ -1,16 +1,21 @@
-<footer class="bd-footer mt-5">
-  <div class="container pt-4">
+<footer class="bd-footer mt-5 py-2">
+  <div class="container pt-5">
     <div class="row">
-        <div class="col-sm">
-          <ul>
-            <li>Twitter</li>
-            <li>und so</li>
+        <div class="col-sm">          
+          <ul class="d-inline-flex align-content-center flex-row mb-3">
+            <li class="text-uppercase">Besuche uns auf</li>
+            <li><a class="btn btn-outline-light border rounded-circle inline-icon" style="" href="https://twitter.com/{{site.data.globals.twitter}} ">{% include icons/twitter.svg %}</a></li>
+            <li><a class="btn btn-outline-light border rounded-circle inline-icon" style="" href="https://facebook.com/{{site.data.globals.facebook}} ">{% include icons/facebook.svg %}</a></li>
           </ul>
         </div>
         <div class="col-sm">
-          <a href="/impressum">Impressum</a>
+          <ul>
+            <li><a href="/datenschutz">Datenschutz</a></li>
+            <li><a href="/impressm">Impressum</a></li>
+          </ul>
         </div>
-        <div class="col-sm">
+        <div class="col-sm-5">
+          <small>© 2018, {{site.title}}</small>
         </div>
     </div>
   </div>

@@ -78,9 +78,33 @@ body {
 	}
 }
 
+
+.inline-icon {
+	display:inline-block;
+	width: 2em;
+	line-height: 2em; 
+	height: 2em;
+	padding: 0;
+	svg {
+	  width: 1em;
+	  height: 1em;
+	  padding: 0;
+	  margin: 0;
+	}
+}
+
 footer.bd-footer {
 	background: $blue;
 	color: white;
+	ul {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+		li {
+			display: inline-block;
+			padding-right: 1em;
+		}
+	}
 	a {
 		color: white;
 	}
