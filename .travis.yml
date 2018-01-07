@@ -18,11 +18,17 @@ before_deploy:
 - ssh-add /tmp/deploy_rsa
 
 deploy:
-  provider: script
-  skip_cleanup: true
-  script: "rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/$COBALT_BUILD_DIR/
+  - provider: script
+    skip_cleanup: true
+    script: "rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/$COBALT_BUILD_DIR/
 root@nick.bewegung.jetzt:/var/dib/bmdt/site"
-  on:
-    branch: master
-    condition: '"$TRAVIS_PULL_REQUEST" = "false"'
-
+    on:
+      branch: master
+      condition: '"$TRAVIS_PULL_REQUEST" = "false"'
+  - provider: script
+    skip_cleanup: true
+    script: "rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/$COBALT_BUILD_DIR/
+root@nick.bewegung.jetzt:/var/dib/bmdt-dev/site"
+    on:
+      branch: dev
+      condition: '"$TRAVIS_PULL_REQUEST" = "false"'
