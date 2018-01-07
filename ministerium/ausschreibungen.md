@@ -5,6 +5,8 @@ backdrop: "/assets/images/backdrops/proposal.jpg"
 
 title: "Ausschreibungen"
 
+thin_boxed: 1
+
 breadcrumb:
  - text: Ministerium
    url: /ministerium/
@@ -14,6 +16,8 @@ breadcrumb:
 _Das Ministerium hat aktuell die folgenden Ausschreibungen offen:_
 
 ---
+<br>
+<br>
 
 ### Organisation und Durchführung des 1. Bürgerkonvent der Bundesrepublik Deutschland - Vergabenummer: B I 1 - VSt. 1021/2018
 
@@ -28,6 +32,10 @@ Berlin bzw. Sitz des Auftragnehmers
 
 ---
 
+
+<br>
+<br>
+
 ### Entwicklung, Bereitstellung und Pflege/ Wartung einer Datenbank für Interessenvertretung (“Lobbyregister”)
 
 #### Auftragsgegenstand:
@@ -40,6 +48,9 @@ Gegenstand der Beschaffung ist die Entwicklung, Bereitstellung und Pflege/ Wartu
 Berlin bzw. Sitz des Auftragnehmers
 
 ---
+
+<br>
+<br>
 
 ### Wissenschaftliche Unterstützung bei der Konzeption einer Fachanwendung für Online-Partizipation
 
