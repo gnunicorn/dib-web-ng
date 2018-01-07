@@ -7,9 +7,12 @@ breadcrumb:
  - text: Ministerium
    url: /ministerium/
 
----
+thin_boxed: 1
 
-Liebe Mitbürgerinnen und Mitbürger,
+header: |
+  <h1>Liebe Mitbürgerinnen und Mitbürger,</h1>
+
+---
 
 immer wieder erschüttern Lobbyskandale die Republik. Diese Skandale sind Gift für unsere Demokratie. Sie sind dafür verantwortlich, dass sich immer mehr Menschen von der Politik abwenden oder extreme Parteien wählen.
 

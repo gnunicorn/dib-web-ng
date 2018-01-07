@@ -18,10 +18,15 @@
 
     <main id="content" role="main">
       {% include page_head.html %}
-     <div class="container">
 
-        {{content}}
+     <div class="container mb-2">
+        <div class="row justify-content-md-center">
+          <div  class="col{% if thin_boxed %}-md-10{% endif %}">
         
+            {{content}}
+
+          </div>
+        </div>
       </div>
 
     </main>

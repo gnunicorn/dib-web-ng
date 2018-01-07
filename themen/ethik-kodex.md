@@ -7,21 +7,23 @@ breadcrumb:
  - text: Themen
    url: /themen/
 
+thin_boxed: 1
+
+header: |
+    <h1>Ethik-Kodex</h1>
+    <hr>
+    <p><strong>In Kürze:</strong></p>
+    <p>Das BMDT empfiehlt allen Bundestagsabgeordneten das Unterzeichnen eines Ethik-Kodex. Die wichtigsten Punkte im Kodex sind:</p>
+    <ul>
+    <li>Respekt vor basisdemokratischen Beschlüssen</li>
+    <li>Beschränkung auf zwei Legislaturperioden</li>
+    <li>Transparenz von Einkünften, Lobby-Kontakten und Dienstreisen</li>
+    <li>Verbot bezahlter Nebentätigkeiten</li>
+    </ul>
+
+
 ---
 
-
-<div class="alert alert-secondary border border-warning mb-5" role="alert" markdown="1">
-
-**In Kürze:**
-
-Das BMDT empfiehlt allen Bundestagsabgeordneten das Unterzeichnen eines Ethik-Kodex. Die wichtigsten Punkte im Kodex sind:
-
- - Respekt vor basisdemokratischen Beschlüssen
- - Beschränkung auf zwei Legislaturperioden
- - Transparenz von Einkünften, Lobby-Kontakten und Dienstreisen
- - Verbot bezahlter Nebentätigkeiten
-
-</div>
 
 ## Transparenz-Offensive durch Selbstverpflichtung
 Das Vertrauen in unsere Demokratie lebt in erster Linie von glaubwürdigen Abgeordneten. Sie müssen mit gutem Beispiel vorangehen, um verloren gegangenes Vertrauen wieder herzustellen. Das BMDT empfiehlt daher allen Bundestagsabgeordneten das Unterzeichnen eines Ethik-Kodex.
