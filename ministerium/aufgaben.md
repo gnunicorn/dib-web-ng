@@ -3,6 +3,8 @@ path: /ministerium/aufgaben-und-struktur/
 backdrop: /assets/images/backdrops/structures.jpg
 title: "Aufgaben und Struktur"
 
+thin_boxed: 1
+
 breadcrumb:
  - text: Ministerium
    url: /ministerium/
