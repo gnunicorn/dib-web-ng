@@ -12,7 +12,7 @@ extends: default.liquid
       </ol>
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src="/assets/images/andrea-natali-447536.jpg" alt="Ein Mann zückt ein Umschlag aus der Innentasche seines Anzugs.">
+          <img class="d-block w-100" src="/assets/images/kampagnen/preisschild.jpg" alt="Ein Mann zückt ein Umschlag aus der Innentasche seines Anzugs.">
             <div class="carousel-caption d-none p-3 mb-5 bg-dark text-light d-md-block text-left" style="right: 55%;">
               <h4 class="mb-3">Neue Kampagne: Demokratie darf kein Preisschild haben</h4>
               <p>Die Macht der Konzerne wird immer größer. Das BMDT startet deshalb die Kampagne “Demokratie darf kein Preisschild haben”. Wir machen uns stark für neue Formen der Mitbestimmung. Denn Demokratie ist für alle da, unabhängig vom Geldbeutel.</p>
@@ -20,7 +20,7 @@ extends: default.liquid
             </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="/assets/images/jordan-whitt-54480.jpg" alt="Ein Schwarz-weiß Photo, das zeigt wie Kinder auf einem Feld davon laufen.">
+          <img class="d-block w-100" src="/assets/images/kampagnen/kinder-im-feld.jpg" alt="Ein Schwarz-weiß Photo, das zeigt wie Kinder auf einem Feld davon laufen.">
             <div class="carousel-caption d-none p-3 mb-5 bg-light text-dark d-md-block text-left" style="bottom: auto; top: 40px;">
               <h4 class="mb-3">Fluchtursachen - was kann Deutschland tun?</h4>
               <h5>Jetzt anmelden zum Bürgerkonvent!</h5>
@@ -28,7 +28,7 @@ extends: default.liquid
             </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="/assets/images/tim-gouw-209217.jpg" alt="Ein Photo aus der Vogelperspektive auf dem Menschen auf einem Strand das Wort 'Resist' formen.">
+          <img class="d-block w-100" src="/assets/images/kampagnen/resist.jpg" alt="Ein Photo aus der Vogelperspektive auf dem Menschen auf einem Strand das Wort 'Resist' formen.">
             <div class="carousel-caption d-none p-3 mb-5 bg-light text-dark d-md-block text-left" style="left: 55%;">
               <h4 class="mb-3">Das BMDT fördert Deine Demokratie-Initiative mit 5000€!</h4>
               <p>Deutschlandweit engagieren sich Tausende ehrenamtlich in Initiativen für mehr Demokratie und Transparenz. Doch oftmals fehlt das Geld. Das BMDT fördert deshalb Deine Demokratie-Initiative mit 5000€ ! Egal, ob Du Lobbyskandale aufdeckst oder Dich für kommunale Mitbestimmung einsetzt.</p>
