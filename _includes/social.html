@@ -1,15 +1,15 @@
 <!-- Twitter -->
-<meta name="twitter:card" content="{% if page.title %}summary{% else %}summary_large_image{% endif %}">
+<meta name="twitter:card" content="{% if title %}summary{% else %}summary_large_image{% endif %}">
 <meta name="twitter:site" content="@{{ site.data.globals.twitter }}">
 <meta name="twitter:creator" content="@{{ site.data.globals.twitter }}">
-<meta name="twitter:title" content="{{ page.title | default: site.title  }}">
-<meta name="twitter:description" content="{{ page.description | default: site.description  }}">
+<meta name="twitter:title" content="{% if title %}{{ title }} · {% endif %}{{ site.title }}">
+<meta name="twitter:description" content="{{ description | default: site.description  }}">
 <meta name="twitter:image" content="{{ site.data.globals.url }}/assets/logo.jpg">
 
 <!-- Facebook -->
 <meta property="og:url" content="{{ site.data.globals.url }}{{page.url}}">
-<meta property="og:title" content="{{ page.title | default: site.title  }}">
-<meta property="og:description" content="{{ page.description | default: site.description  }}">
+<meta property="og:title" content="{% if title %}{{ title }} · {% endif %}{{ site.title }}">
+<meta property="og:description" content="{{ description | default: site.description  }}">
 <meta property="og:type" content="website">
 <meta property="og:image" content="{{ site.data.globals.url }}/assets/logo.jpg">
 <meta property="og:image:type" content="image/jpeg">
