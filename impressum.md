@@ -23,4 +23,4 @@ Brunnenstr. 64/65<br/>
 
 ### Credits
 
- - Das Photo von Heiko Maas: Sandro Halank, Wikimedia Commons, CC-BY-SA 3.0, <a href="https://commons.wikimedia.org/wiki/File:2017-03-26_Heiko_Maas_by_Sandro_Halank–5.jpg">2017-03-26 Heiko Maas by Sandro Halank–5</a>, Scaled to square by DEMOKRATIE IN BEWEGUNG, <a href="https://creativecommons.org/licenses/by-sa/3.0/legalcode">CC BY-SA 3.0</a> 
+ - Das Photo von Heiko Maas: <a href="https://www.flickr.com/photos/campact/27338540372/">Campact, CC-BY-NC 2.0</a>, Zugeschnitten
