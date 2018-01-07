@@ -1,6 +1,8 @@
 extends: page.liquid
 path: /service/publikationen/
 
+backdrop: /assets/images/backdrops/publikationen.jpg
+
 title: "Publikationen"
 
 breadcrumb:

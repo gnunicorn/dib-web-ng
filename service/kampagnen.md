@@ -1,6 +1,8 @@
 extends: page.liquid
 path: /service/kampagnen/
 
+backdrop: /assets/images/backdrops/kampagnen.jpg
+
 title: "Kampagnen"
 
 breadcrumb:

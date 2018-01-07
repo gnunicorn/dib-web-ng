@@ -1,6 +1,8 @@
 extends: page.liquid
 path: /service/veranstaltungen/
 
+backdrop: /assets/images/backdrops/veranstaltungen.jpg
+
 title: "Veranstaltungen"
 
 breadcrumb:
