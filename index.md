@@ -1,5 +1,6 @@
 layout: simple
 extends: default.liquid
+title: 'Startseite'
 ---
 
 <div class="bg-primary">
