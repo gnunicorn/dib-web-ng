@@ -10,8 +10,8 @@ pages:
  - name: Aufgaben und Struktur
    url: "/ministerium/aufgaben-und-struktur/"
    img: "/assets/images/backdrops/structures.jpg"
- - name: Organigram
-   url: "/ministerium/organigram/"
+ - name: Organigramm
+   url: "/ministerium/organigramm/"
    img: "/assets/images/backdrops/organigram.jpg"
  - name: Ausschreibungen
    url: "/ministerium/ausschreibungen/"

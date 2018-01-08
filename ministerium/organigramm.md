@@ -1,8 +1,8 @@
 extends: page.liquid
-path: /ministerium/organigram/
+path: /ministerium/organigramm/
 backdrop: /assets/images/backdrops/organigram.jpg
 
-title: "Organigram"
+title: "Organigramm"
 
 thin_boxed: 1
 
@@ -13,7 +13,7 @@ breadcrumb:
 ---
 
 
-## Minister: [Heiko Maas](/ministerium/minister/)
+## Minister: [Katarina Barley](/ministerium/minister/)
 
 ---
 
