@@ -40,4 +40,4 @@ Der Kodex verpflichtet die Abgeordneten, Politik nicht in den Dienst privater In
 
 Mehrere Bundestagsabgeordnete haben bereits einen [ähnlichen Kodex](https://bewegung.jetzt/ethik-kodex/) unterschrieben. Bei der Partei Demokratie in Bewegung (DiB) ist das Unterschreiben des Ethik-Kodex sogar Aufnahmebedingung für neue Mitglieder.
 
-Bundesminister Heiko Maas wird sich im Parlament intensiv für die weitere Verbreitung des Ethik-Kodex einsetzen.
+Bundesministerin Katarina Barley wird sich im Parlament intensiv für die weitere Verbreitung des Ethik-Kodex einsetzen.
