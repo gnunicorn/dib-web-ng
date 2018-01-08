@@ -1,7 +1,7 @@
 extends: page.liquid
-path: /ministerium/minister/
+path: /ministerium/ministerin/
 
-title: "Der Minister"
+title: "Die Ministerin"
 
 breadcrumb:
  - text: Ministerium
@@ -28,6 +28,6 @@ Das Vertrauen in unsere Demokratie ist unbezahlbar. Wir müssen sie schützen vo
 
 Ich bin froh und dankbar, als erster Bundesminister für Demokratie und Transparenz mich diesen verantwortungsvollen Aufgaben annehmen zu dürfen und freue mich sehr auf meine neue Tätigkeit.
 
-Ihr<br />
-Heiko Maas
+Ihre<br />
+Katarina Barley
 

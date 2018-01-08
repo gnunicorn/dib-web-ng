@@ -54,10 +54,10 @@ title: 'Startseite'
     <div class="align-self-center media-body">
       <blockquote class="blockquote text-center"><p style="font-size: 1.35em; font-style: italic;">Das Vertrauen in unsere Demokratie ist unbezahlbar. Wir brauchen mehr Mitbestimmung und Transparenz.
       </p>
-        <footer class="blockquote-footer text-right"><a href="">Heiko Maas, Bundesminister</a></footer>
+        <footer class="blockquote-footer text-right"><a href="">Katarina Barley, Bundesministerin</a></footer>
     </blockquote>
     </div>
-      <img class="m-5 align-self-center w-25 rounded-circle" src="/assets/images/heiko-maas.jpg" alt="Photo zeigt Heiko Maas." />
+      <img class="m-5 align-self-center w-25 rounded-circle" src="/assets/images/barley.jpg" alt="Photo zeigt Katarina Barley." />
   </div>
 </div>
 

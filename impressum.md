@@ -23,4 +23,4 @@ Brunnenstr. 64/65<br/>
 
 ### Credits
 
- - Das Photo von Heiko Maas: <a href="https://www.flickr.com/photos/campact/27338540372/">Campact, CC-BY-NC 2.0</a>, Zugeschnitten
+ - Das Photo von Katarina Barley stammt von Olaf Kosinsky, <a href="https://commons.wikimedia.org/wiki/File:2015-12_SPD_Bundesparteitag_by_Olaf_Kosinsky-80.jpg">2015-12 SPD Bundesparteitag by Olaf Kosinsky-80</a>, Zugeschnitten auf Katarina Barley durch DEMOKRATIE IN BEWEGUNG, <a href="https://creativecommons.org/licenses/by-sa/4.0/legalcode">CC BY-SA 4.0</a> 
