@@ -22,11 +22,11 @@ Dagegen wollen wir endlich vorgehen! Deswegen bin ich besonders stolz, dass die 
 
 In der kommenden Legislaturperiode werden wir verschiedene Gesetzesentwürfe einbringen, die ausufernden Lobbyismus begrenzen sollen. Dabei setzen wir vor allem auf Transparenz, etwa durch ein verpflichtendes Lobbyregister oder den legislativen Fußabdruck.
 
-Daneben werden wir uns stark machen für mehr Mitbestimmung. Wir werden den ersten Bürgerkonvent der Bundesrepublik Deutschland durchführen und auf auch kommunaler Ebene Beteiligung fördern. Desweiteren wollen wir prüfen, wie und in welcher Form bundesweite Bürgerentscheide verantwortungsbewusst und grundgesetzkonform durchgeführt werden können.
+Daneben werden wir uns stark machen für mehr Mitbestimmung. Wir werden den ersten Bürgerkonvent der Bundesrepublik Deutschland durchführen und auch auf kommunaler Ebene Beteiligung fördern. Desweiteren wollen wir prüfen, wie und in welcher Form bundesweite Bürgerentscheide verantwortungsbewusst und grundgesetzkonform durchgeführt werden können.
 
 Das Vertrauen in unsere Demokratie ist unbezahlbar. Wir müssen sie schützen vor ihren Feinden und weiterentwickeln mit ihren Freunden. Wir brauchen mehr Mitbestimmung und Transparenz.
 
-Ich bin froh und dankbar, als erster Bundesminister für Demokratie und Transparenz mich diesen verantwortungsvollen Aufgaben annehmen zu dürfen und freue mich sehr auf meine neue Tätigkeit.
+Ich bin froh und dankbar, als erste Bundesministerin für Demokratie und Transparenz mich diesen verantwortungsvollen Aufgaben annehmen zu dürfen und freue mich sehr auf meine neue Tätigkeit.
 
 Ihre<br />
 Katarina Barley

@@ -13,13 +13,13 @@ breadcrumb:
 ---
 
 
-## Minister: [Katarina Barley](/ministerium/minister/)
+## Ministerin: [Katarina Barley](/ministerium/minister/)
 
 ---
 
-### Staatssekretäre:
+### Staatssekretär\*innen:
 
-tbd
+_TBD__
 
 ---
 

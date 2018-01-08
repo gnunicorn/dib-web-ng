@@ -18,11 +18,12 @@ header: |
 
 
 ## Vielfalt der Meinungen abbilden
+
 Bei der Wahl 2013 wurden 15,7 Prozent der abgegebenen Stimmen nicht im Parlament repräsentiert, weil die Parteien an der 5%-Hürde scheiterten. Bei den unter 25-jährigen waren es sogar noch mehr - nahezu jede fünfte Stimme.
 
-Aufgrund der Sperrklausel wählen viele Menschen lieber strategisch. Sie wollen “ihre Stimme nicht verschenken” und wählen stattdessen “das kleinere Übel”. Da dieses strategische Denken weit verbreitet ist, werden kleinere Parteien und jüngere Wähler unverhältnismäßig benachteiligt.
+Aufgrund der Sperrklausel wählen viele Menschen lieber strategisch. Sie wollen “ihre Stimme nicht verschenken” und wählen stattdessen “das kleinere Übel”. Da dieses strategische Denken weit verbreitet ist, werden kleinere Parteien und jüngere Wähler\*innen unverhältnismäßig benachteiligt.
 
-Die Sperrklausel führt letztlich dazu, dass der Bundestag nicht den wirklichen Willen der  Wähler/innen widerspiegelt und sich Wähler/innen frustriert abwenden.
+Die Sperrklausel führt letztlich dazu, dass der Bundestag nicht den wirklichen Willen der  Wähler\*innen widerspiegelt und sich Wähler\*innen frustriert abwenden.
 
 Das BMDT fühlt sich der Förderung und Weiterentwicklung der Demokratie besonders verpflichtet. Wir werden daher bis zur nächsten Bundestagswahl die Absenkung der Sperrklausel von fünf auf drei Prozent vorschlagen. Mit Hilfe von Ersatzstimmen sollen Stimmen außerdem auf eine andere Partei übertragen werden, falls die gewählte Partei trotzdem an der Hürde scheitert.
 

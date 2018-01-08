@@ -5,7 +5,7 @@ backdrop: /assets/images/backdrops/press.jpg
 
 ---
 
-## Leiter des Pressereferats
+## Leiter\*in des Pressereferats
 
 ## E-Mail & Telefon
 

@@ -24,7 +24,7 @@ Deutschlandweit engagieren sich Tausende ehrenamtlich in Initiativen für mehr D
 
 Unser Ziel ist ein demokratischer Aufbruch im Jahr 2018. Deswegen fördern wir Vereine, NGOs und Initiativen, die sich für Mitbestimmung und Transparenz engagieren - sowohl auf kommunaler Ebene, als auch im Bund und in Europa.
 
-Wir fördern Sie dabei nicht nur finanziell, sondern unterstützten auch die Vernetzung der einzelnen Initiativen. Zweimal im Jahr laden wir alle geförderten Projekte und Initiativen in das BMDT ein, um einen Austausch zu ermöglichen.
+Wir fördern Sie dabei nicht nur finanziell, sondern unterstützten auch die Vernetzung der einzelnen Initiativen: Zweimal im Jahr laden wir alle geförderten Projekte und Initiativen in das BMDT ein, um einen Austausch zu ermöglichen.
 
 ---
 

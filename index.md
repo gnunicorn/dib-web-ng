@@ -70,7 +70,7 @@ title: 'Startseite'
             <div class="card-header">21. Jan</div>
             <div class="card-body">
               <h5 class="card-title">Neujahrsempfang</h5>
-              <p class="card-text">Das Bundesministerium für Demokratie und Transparenz lädt ein zum Neujahrsempfang mit Vertretern aus Zivilgesellschaft und Politik.</p>
+              <p class="card-text">Das Bundesministerium für Demokratie und Transparenz lädt ein zum Neujahrsempfang mit Vertreter*innen aus Zivilgesellschaft und Politik.</p>
             </div>
           </div>
       </div>

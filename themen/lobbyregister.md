@@ -17,7 +17,7 @@ header: |
     <ul>
     <li>Registrierungspflicht für Lobbyisten</li>
     <li>Angabenpflicht über Themengebiete, Aufwand und Finanzierung der Lobbyarbeit</li>
-    <li>Führung und Kontrolle des Registers durch einen Bundesbeauftragten für politische Interessenvertretung</li>
+    <li>Führung und Kontrolle des Registers durch eine*n Bundesbeauftragte*n für politische Interessenvertretung</li>
     <li>Bei Verstößen Sanktionen von Ermahnung bis Geldbußen</li>
     </ul>
 
@@ -26,7 +26,7 @@ header: |
 ## Licht in den Lobbyjungle
 Lobbyismus findet in Deutschland weitgehend im Dunkeln statt. Nicht einmal die genaue Anzahl der Lobbyisten ist bekannt. Während Konzerne und große Unternehmen von der Intransparenz profitieren, steigt das Misstrauen in die Politik.
 
-Ein Lobbyregister stärkt demokratische Kontrolle, in dem es Journalisten, Organisationen und Bürgern Informationen über Einflussnahme und Verflechtungen zwischen Politik und Wirtschaft liefert. Es festigt durch umfangreiche Transparenz das Vertrauen der Bürgerinnen und Bürger in unsere Demokratie.
+Ein Lobbyregister stärkt demokratische Kontrolle, in dem es Journalist\*innen, Organisationen und Bürger\*innen Informationen über Einflussnahme und Verflechtungen zwischen Politik und Wirtschaft liefert. Es festigt durch umfangreiche Transparenz das Vertrauen der Bürger\*innen in unsere Demokratie.
 
 ## Kooperation mit Lobbycontrol und Abgeordnetenwatch
 Das BMDT bemüht sich um verstärkte Zusammenarbeit mit zivilgesellschaftlichen Organisationen. Für das verpflichtende Lobbyregister kooperieren wir mit den Initiativen Lobbycontrol und Abgeordnetenwatch. Sie haben bereits einen [Gesetzesentwurf für ein verpflichtendes Lobbyregister](https://www.lobbycontrol.de/schwerpunkt/lobbyregister/) vorgelegt, welchen das BMDT nach einer juristischen Prüfung übernehmen wird.
