@@ -17,8 +17,8 @@ pages:
    url: /service/kampagnen/preisschild/
    img: /assets/images/kampagnen/preisschild/backdrop.jpg
  - name: "Demokratie Konvent: Europa?!? Jetzt anmelden!"
-   url: /service/veranstaltungen/
-   img: /assets/images/kampagnen/europa-kovent.jpg
+   url: /themen/demokratie-konvente/
+   img: /assets/images/kampagnen/europa-konvent.jpg
  - name: "Das BMDT fördert Deine Demokratie-Initiative mit 5000€!"
    url: /service/kampagnen/foerderung/
    img: /assets/images/kampagnen/grundeinkommen.jpg

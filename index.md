@@ -21,11 +21,11 @@ title: 'Startseite'
             </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="/assets/images/kampagnen/europa-konvent.jpg" alt="Ein Schwarz-weiß Photo, das zeigt wie Kinder auf einem Feld davon laufen.">
+          <img class="d-block w-100" src="/assets/images/kampagnen/europa-konvent.jpg" alt="Ein Photo einer Europa-Karte, die mit Verbindungen übersäht ist.">
             <div class="carousel-caption d-none p-3 mb-5 bg-light text-dark d-md-block text-left" style="bottom: auto; top: 40px;">
               <h4 class="mb-3">Wie geht’s weiter mit Europa?</h4>
               <h5>Jetzt anmelden zum Demokratie-Konvent!</h5>
-              <p>Wir brauchen neue Visionen für Europa! Melden Sie sich jetzt an zum 1. Demokratie-Konvent und <a href="/service/kampagnen/demokratie-konvent/">diskutieren Sie mit.</a></p>
+              <p>Wir brauchen neue Visionen für Europa! Melden Sie sich jetzt an zum 1. Demokratie-Konvent und <a href="/themen/demokratie-konvente/">diskutieren Sie mit.</a></p>
             </div>
         </div>
         <div class="carousel-item">
