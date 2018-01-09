@@ -25,7 +25,7 @@ Es gilt, unsere Demokratie vor ihren Feinden zu schützen und mit ihren Freunden
 
 ### Wie arbeitet das Ministerium?
 
-Zur Wahrnehmung seiner Aufgaben nutzt das BMUB verschiedene Instrumente. Kernaufgabe ist das Erarbeiten von [Gesetzesentwürfen](/themen/), über die der Bundestag abstimmt. Dabei konzentrieren wir uns auf Gesetze zur Förderung der Demokratie, zum Schutz vor ausuferndem Lobbyismus sowie neue Regeln für mehr Transparenz.
+Zur Wahrnehmung seiner Aufgaben nutzt das BMDT verschiedene Instrumente. Kernaufgabe ist das Erarbeiten von [Gesetzesentwürfen](/themen/), über die der Bundestag abstimmt. Dabei konzentrieren wir uns auf Gesetze zur Förderung der Demokratie, zum Schutz vor ausuferndem Lobbyismus sowie neue Regeln für mehr Transparenz.
 
 Neben der Parlamentsarbeit unterstützen wir Organisationen und Initiativen, die sich in den Bereichen Demokratie und Transparenz engagieren, mit Know-How und über [Förderprogramme](/service/kampagnen/foerderung/) auch finanziell. Wir organisieren [Konferenzen und Veranstaltungen](/service/veranstaltungen/) und fördern die nationale und internationale Vernetzung.
 
