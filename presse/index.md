@@ -5,8 +5,14 @@ backdrop: /assets/images/backdrops/press.jpg
 
 ---
 
-## Leiter\*in des Pressereferats
+## Leiterin des Pressereferats
 
-## E-Mail & Telefon
+**Pressekontakt**<br>
+Claudia Trapp<br>
+<presse@bewegung.jetzt><br>
+0173 6086484<br>
+
 
 ## Pressemitteilungen
+
+_folgen bald_
