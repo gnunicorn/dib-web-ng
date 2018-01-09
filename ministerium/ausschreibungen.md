@@ -19,10 +19,10 @@ _Das Ministerium hat aktuell die folgenden Ausschreibungen offen:_
 <br>
 <br>
 
-### Organisation und Durchführung des 1. Bürgerkonvent der Bundesrepublik Deutschland - Vergabenummer: B I 1 - VSt. 1021/2018
+### Organisation und Durchführung des 1. Demokratie-Konvent der Bundesrepublik Deutschland - Vergabenummer: B I 1 - VSt. 1021/2018
 
 #### Auftragsgegenstand:
-Gegenstand der Beschaffung ist die Organisation und Durchführung eines Bürgerkonvents mit dem Titel: “Fluchtursachen- was kann Deutschland tun?” Die Leistung ist im Zeitraum vom Zeitpunkt des Zuschlags (Zugang des Zuschlagsschreibens) bis zum 31.12.2018 zu erbringen.
+Gegenstand der Beschaffung ist die Organisation und Durchführung eines Demokratie-Konvents mit dem Titel: “Wie geht’s weiter mit Europa?” Die Leistung ist im Zeitraum vom Zeitpunkt des Zuschlags (Zugang des Zuschlagsschreibens) bis zum 31.12.2018 zu erbringen.
 
 #### Ablauf der Angebotsfrist:
 31. Januar 2018, 10:00 Uhr

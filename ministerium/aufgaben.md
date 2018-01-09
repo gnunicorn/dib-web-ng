@@ -17,7 +17,7 @@ header: |
 
 ### Für welche Politikfelder ist das Ministerium zuständig?
 
-Mit dem Bundesministerium für Demokratie und Transparenz (BMDT) kümmert sich erstmals ein Ministerium um die Weiterentwicklung der Demokratie. Seit 2018 bemüht sich das BMDT, den Bürgerinnen und Bürgern mehr Mitbestimmung zu ermöglichen, in den Kommunen, Ländern und auf Bundesebene. Dafür prüfen und testen wir innovative Formate wie Bürgerkonvente und Online-Partizipation.
+Mit dem Bundesministerium für Demokratie und Transparenz (BMDT) kümmert sich erstmals ein Ministerium um die Weiterentwicklung der Demokratie. Seit 2018 bemüht sich das BMDT, den Bürgerinnen und Bürgern mehr Mitbestimmung zu ermöglichen, in den Kommunen, Ländern und auf Bundesebene. Dafür prüfen und testen wir innovative Formate wie Demokratie-Konvente und Online-Partizipation.
 
 Neben der Weiterentwicklung ist das BMDT auch zuständig für den Schutz der Demokratie. Darunter verstehen wir in erster Linie den Schutz vor ausuferndem Lobbyismus. Wir setzen uns ein für mehr Transparenz und überprüfen, ob bestehende Regeln eingehalten werden.
 
