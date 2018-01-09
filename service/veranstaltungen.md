@@ -81,9 +81,8 @@ breadcrumb:
         <div class="card-body">
             <p>Die Krise der EU sitzt tief. Undemokratische Institutionen und eine gesichtslose Bürokratie lassen viele Menschen den Glauben an ein geeintes Europa verlieren. Die parlamentarische Demokratie schafft es nicht, neue Antworten zu finden und Visionen zu entwickeln.</p>
             <p>Deswegen veranstalten wir noch in diesem Jahr mit europäischen Partner*innen den ersten Demokratie-Konvent. In Arbeitsgruppen diskutieren Menschen aus ganz Europa die Themen Solidarisches Europa, Klimaschutz, Europa der Regionen, Migration &amp; Flucht und Landwirtschaft. Melden Sie sich jetzt an!</p>
-            <h3>Jetzt anmelden!</h3>
-            <p>Anmeldung (Email Formular)</p>
-            <p>Zahlreichen Experten*innen, Künstler*innen und Wissenschaftler*innen sowie Dolmetscher werden die Teilnehmenden unterstützen. Der Demokratie-Konvent wird von erfahrenen Moderator*innen geleitet und soll das Initiativrecht im Bundestag erhalten.</p>
+           	{% include konvent-form.html %}
+			<p>Zahlreichen Experten*innen, Künstler*innen und Wissenschaftler*innen sowie Dolmetscher werden die Teilnehmenden unterstützen. Der Demokratie-Konvent wird von erfahrenen Moderator*innen geleitet und soll das Initiativrecht im Bundestag erhalten.</p>
         </div>
     </div>
 </div>

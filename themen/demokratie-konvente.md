@@ -13,9 +13,10 @@ header: |
     <h1>Demokratie-Konvente</h1>
     <p><strong>In Kürze</strong>:<br>
     Das BMDT veranstaltet noch in diesem Jahr den ersten Demokratie-Konvent. Gemeinsam mit Ihnen entwickeln wir Visionen für Europa. Melden Sie sich jetzt an!</p>
-    <p>TBD: ANMELDUNG</p>
     
 ---
+
+{% include konvent-form.html %}
 
 ## 1. Demokratie-Konvent - Wie geht’s weiter mit Europa?
 

@@ -1,0 +1,59 @@
+
+<div class="alert alert-light my-3 py-2 px-4 border border-primary col-md-10 align-self-center">
+<h3>Jetzt anmelden!</h3>
+<div id="mauticform_wrapper_bmdtkonventsignup" class="mauticform_wrapper">
+<form autocomplete="false" role="form" method="post" action="https://mautic.bewegung.jetzt/form/submit?formId=7" id="mauticform_bmdtkonventsignup"  data-mautic-form="bmdtkonventsignup" enctype="multipart/form-data">
+<div class="mauticform-error" id="mauticform_bmdtkonventsignup_error"></div>
+<div class="mauticform-message" id="mauticform_bmdtkonventsignup_message"></div>
+
+<div class="mauticform-innerform container">
+  <div class="mauticform-page-wrapper mauticform-page-1 row" data-mautic-form-page="1">
+    <div id="mauticform_bmdtkonventsignup_vorname" class="mauticform-row mauticform-text mauticform-field-1 mauticform-required col-md-6" data-validate="vorname" data-validation-type="text">
+        <input id="mauticform_input_bmdtkonventsignup_vorname" name="mauticform[vorname]" value="" placeholder="Vorname" class="mauticform-input w-100" type="text" />
+        <span class="mauticform-errormsg" style="display: none;">Erforderlich</span>
+    </div>
+    <div id="mauticform_bmdtkonventsignup_nachname"  class="mauticform-row mauticform-text mauticform-field-2 col-md-6">
+        <input id="mauticform_input_bmdtkonventsignup_nachname" name="mauticform[nachname]" value="" placeholder="Nachname" class="mauticform-input w-100" type="text" />
+        <span class="mauticform-errormsg" style="display: none;"></span>
+    </div>
+</div>
+<div class="row mt-2 ">
+    <div id="mauticform_bmdtkonventsignup_plz" class="mauticform-row mauticform-text mauticform-field-4 mauticform-required col-md-4" data-validate="plz" data-validation-type="text">
+        <input id="mauticform_input_bmdtkonventsignup_plz" name="mauticform[plz]" value="" placeholder="PLZ" class="mauticform-input w-100" type="text" />
+        <span class="mauticform-errormsg" style="display: none;">Erforderlich</span>
+    </div>
+    <div id="mauticform_bmdtkonventsignup_email" class="mauticform-row mauticform-email mauticform-field-3 col-md-8">
+        <input id="mauticform_input_bmdtkonventsignup_email" name="mauticform[email]" value="" placeholder="Deine E-Mail Adresse" class="mauticform-input w-100" type="email" />
+        <span class="mauticform-errormsg" style="display: none;"></span>
+    </div>
+</div>
+    <div id="mauticform_bmdtkonventsignup_anmelden"  class="mauticform-row mauticform-button-wrapper mauticform-field-5 col-md-4">
+        <button type="submit" name="mauticform[anmelden]" id="mauticform_input_bmdtkonventsignup_anmelden" name="mauticform[anmelden]" value="" class="w-100 mauticform-button btn btn-outline-primary" value="1">Anmelden</button>
+    </div>
+    </div>
+</div>
+
+<input type="hidden" name="mauticform[formId]" id="mauticform_bmdtkonventsignup_id" value="7"/>
+<input type="hidden" name="mauticform[return]" id="mauticform_bmdtkonventsignup_return" value=""/>
+<input type="hidden" name="mauticform[formName]" id="mauticform_bmdtkonventsignup_name" value="bmdtkonventsignup"/>
+
+</form>
+</div>
+<script type="text/javascript">
+    /** This section is only needed once per page if manually copying **/
+    if (typeof MauticSDKLoaded == 'undefined') {
+        var MauticSDKLoaded = true;
+        var head            = document.getElementsByTagName('head')[0];
+        var script          = document.createElement('script');
+        script.type         = 'text/javascript';
+        script.src          = 'https://mautic.bewegung.jetzt/media/js/mautic-form.js';
+        script.onload       = function() {
+            MauticSDK.onLoad();
+        };
+        head.appendChild(script);
+        var MauticDomain = 'https://mautic.bewegung.jetzt';
+        var MauticLang   = {
+            'submittingMessage': "Bitte warten..."
+        }
+    }
+</script>
