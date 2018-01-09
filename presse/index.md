@@ -10,7 +10,6 @@ backdrop: /assets/images/backdrops/press.jpg
 **Pressekontakt**<br>
 Claudia Trapp<br>
 <presse@bewegung.jetzt><br>
-0173 6086484<br>
 
 
 ## Pressemitteilungen
