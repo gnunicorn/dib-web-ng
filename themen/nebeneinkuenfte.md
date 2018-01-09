@@ -36,6 +36,6 @@ Das Bundesministerium für Demokratie und Transparenz arbeitet daher an einem Ge
 - Sanktionen bei fehlerhaften oder unvollständigen Angaben, von Ermahnung bis Geldbußen
 
 ## Junge Partei geht mit gutem Beispiel voran
-Parteien wie [Demokratie in Bewegung](https://bewegung.jetzt)(DiB) zeigen bereits, dass sie die vom BMDT geforderte Transparenz ernstnehmen. Durch einen Ethik-Kodex verpflichten sich alle Mandatsträger\*innen der jungen Partei, ihre Nebeneinkünfte offenzulegen.
+Parteien wie [Demokratie in Bewegung](https://bewegung.jetzt) (DiB) zeigen bereits, dass sie die vom BMDT geforderte Transparenz ernstnehmen. Durch einen Ethik-Kodex verpflichten sich alle Mandatsträger\*innen der jungen Partei, ihre Nebeneinkünfte offenzulegen.
 
 Das Bundesministerium für Demokratie und Transparenz hat die [Kampagne “Demokratie darf kein Preisschild haben”](/service/kampagnen/preisschild/) ins Leben gerufen, um die Offenlegung der Nebeneinkünfte zu bewerben.

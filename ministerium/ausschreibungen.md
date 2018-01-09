@@ -36,10 +36,10 @@ Berlin bzw. Sitz des Auftragnehmers
 <br>
 <br>
 
-### Entwicklung, Bereitstellung und Pflege/ Wartung einer Datenbank für Interessenvertretung (“Lobbyregister”)
+### Entwicklung, Bereitstellung und Pflege/Wartung einer Datenbank für Interessenvertretung (“Lobbyregister”)
 
 #### Auftragsgegenstand:
-Gegenstand der Beschaffung ist die Entwicklung, Bereitstellung und Pflege/ Wartung einer Datenbank für Interessenvertretung (“Lobbyregister”). Die Leistung ist im Zeitraum vom Zeitpunkt des Zuschlags (Zugang des Zuschlagsschreibens) bis zum 31.12.2019 zu erbringen.
+Gegenstand der Beschaffung ist die Entwicklung, Bereitstellung und Pflege/Wartung einer Datenbank für Interessenvertretung (“Lobbyregister”). Die Leistung ist im Zeitraum vom Zeitpunkt des Zuschlags (Zugang des Zuschlagsschreibens) bis zum 31.12.2019 zu erbringen.
 
 #### Ablauf der Angebotsfrist:
 31. Januar 2018, 10:00 Uhr

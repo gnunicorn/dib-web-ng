@@ -38,6 +38,6 @@ Um politische Entscheidungen von persönlichem Machtstreben zu trennen, verpflic
 ## Gläserne Abgeordnete 
 Der Kodex verpflichtet die Abgeordneten, Politik nicht in den Dienst privater Interessen, sondern in den der Allgemeinheit zu stellen. Sie legen dafür ihre Einkünfte, Lobby-Kontakte und Dienstreisen offen und akzeptieren ein Verbot bezahlter Nebentätigkeiten.
 
-Mehrere Bundestagsabgeordnete haben bereits einen ähnlichen Kodex unterschrieben. Bei der [Partei Demokratie in Bewegung](https://bewegung.jetzt)(DiB) ist das [Unterschreiben des Ethik-Kodex](https://bewegung.jetzt/ethik-kodex/) sogar Aufnahmebedingung für neue Mitglieder.
+Mehrere Bundestagsabgeordnete haben bereits einen ähnlichen Kodex unterschrieben. Bei der [Partei Demokratie in Bewegung](https://bewegung.jetzt) (DiB) ist das [Unterschreiben des Ethik-Kodex](https://bewegung.jetzt/ethik-kodex/) sogar Aufnahmebedingung für neue Mitglieder.
 
 Bundesministerin Katarina Barley wird sich im Parlament intensiv für die weitere Verbreitung des Ethik-Kodex einsetzen.
