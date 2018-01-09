@@ -6,7 +6,7 @@ backdrop: /assets/images/backdrops/ministerium.jpg
 pages:
  - name: Die Ministerin
    url: /ministerium/ministerin/
-   img: "/assets/images/barley.jpg"
+   img: "/assets/images/barley-wide.jpg"
  - name: Aufgaben und Struktur
    url: "/ministerium/aufgaben-und-struktur/"
    img: "/assets/images/backdrops/structures.jpg"
