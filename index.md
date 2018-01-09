@@ -17,15 +17,15 @@ title: 'Startseite'
             <div class="carousel-caption d-none p-3 mb-5 bg-dark text-light d-md-block text-left" style="right: 55%;">
               <h4 class="mb-3">Neue Kampagne: Demokratie darf kein Preisschild haben</h4>
               <p>Die Macht der Konzerne wird immer größer. Das BMDT startet deshalb die Kampagne “Demokratie darf kein Preisschild haben”. Wir machen uns stark für neue Formen der Mitbestimmung. Denn Demokratie ist für alle da, unabhängig vom Geldbeutel.</p>
-              <p class="text-right"><a class="btn btn-outline-light" href="">mehr</a></p>
+              <p class="text-right"><a class="btn btn-outline-light" href="/service/kampagnen/preisschild/">mehr</a></p>
             </div>
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src="/assets/images/kampagnen/kinder-im-feld.jpg" alt="Ein Schwarz-weiß Photo, das zeigt wie Kinder auf einem Feld davon laufen.">
+          <img class="d-block w-100" src="/assets/images/kampagnen/europa-konvent.jpg" alt="Ein Schwarz-weiß Photo, das zeigt wie Kinder auf einem Feld davon laufen.">
             <div class="carousel-caption d-none p-3 mb-5 bg-light text-dark d-md-block text-left" style="bottom: auto; top: 40px;">
-              <h4 class="mb-3">Fluchtursachen - was kann Deutschland tun?</h4>
-              <h5>Jetzt anmelden zum Bürgerkonvent!</h5>
-              <p>Weltweit sind Millionen Menschen auf der Flucht vor Krieg und Verfolgung, Hunger, Dürre und Armut. Doch was kann Deutschland tun? Melden Sie sich jetzt an zum 1. Bürgerkonvent der Bundesrepublik Deutschland und diskutieren Sie mit.</p>
+              <h4 class="mb-3">Wie geht’s weiter mit Europa?</h4>
+              <h5>Jetzt anmelden zum Demokratie-Konvent!</h5>
+              <p>Wir brauchen neue Visionen für Europa! Melden Sie sich jetzt an zum 1. Demokratie-Konvent und <a href="/service/kampagnen/demokratie-konvent/">diskutieren Sie mit.</a></p>
             </div>
         </div>
         <div class="carousel-item">
@@ -33,7 +33,7 @@ title: 'Startseite'
             <div class="carousel-caption d-none p-3 mb-5 bg-light text-dark d-md-block text-left" style="left: 55%;">
               <h4 class="mb-3">Das BMDT fördert Deine Demokratie-Initiative mit 5000€!</h4>
               <p>Deutschlandweit engagieren sich Tausende ehrenamtlich in Initiativen für mehr Demokratie und Transparenz. Doch oftmals fehlt das Geld. Das BMDT fördert deshalb Deine Demokratie-Initiative mit 5000€ ! Egal, ob Du Lobbyskandale aufdeckst oder Dich für kommunale Mitbestimmung einsetzt.</p>
-              <p class="text-center"><a href="#" class="btn btn-outline-primary">Bewirb Dich jetzt!</a></p>
+              <p class="text-center"><a href="/service/kampagnen/foerderung/" class="btn btn-outline-primary">Bewirb Dich jetzt!</a></p>
             </div>
         </div>
       </div>

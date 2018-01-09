@@ -1,7 +1,7 @@
 extends: page.liquid
-path: /service/kampagnen/foerderung/
+path: /service/kampagnen/demokratie-kovent-europa/
 
-backdrop: /assets/images/kampagnen/grundeinkommen.jpg
+backdrop: /assets/images/kampagnen/europa-konvent.jpg
 
 title: "Das BMDT fördert Deine Demokratie-Initiative mit 5&nbsp;000€ !"
 
