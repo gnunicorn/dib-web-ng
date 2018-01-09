@@ -1,6 +1,8 @@
 extends: page.liquid
 title: Impressum
 path: /impressum/
+
+thin_boxed: 1
 ---
 
 _So lange die Bundesregierung das Ministerium noch nicht fertig hat, betreuen wir diesen Webauftritt treuhändlerisch für sie:_

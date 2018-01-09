@@ -18,7 +18,7 @@ header: |
 
 Bundesweite Bürger\*innenentscheide (auch “Volksentscheide”) sind schon seit längerem in der Diskussion und eine populäre Forderung für mehr Mitbestimmung. Das Bundesministerium für Demokratie und Transparenz will prüfen, wie und in welcher Form bundesweite Bürgerentscheide verantwortungsbewusst und grundgesetzkonform durchgeführt werden können.
 
-Es gibt einen großen Wunsch in der Bevölkerung nach mehr Mitbestimmung. Nicht nur alle 4 Jahre, sondern Tag für Tag. Gleichzeitig sollten aber der Schutz von Minderheiten und Werte wie Weltoffenheit und Vielfalt unverhandelbar sein. Auch müssen wir überlegen, wie wir populistische Meinungsmache verhindern und möglichst objektive Informationsangebote zur Verfügung stellen können.
+Es gibt einen großen Wunsch in der Bevölkerung nach mehr Mitbestimmung. [Nicht nur alle 4 Jahre, sondern Tag für Tag](https://bewegung.jetzt/manifest/). Gleichzeitig sollten aber der Schutz von Minderheiten und Werte wie Weltoffenheit und Vielfalt unverhandelbar sein. Auch müssen wir überlegen, wie wir populistische Meinungsmache verhindern und möglichst objektive Informationsangebote zur Verfügung stellen können.
 
 Trotzdem: mehr Mitbestimmung ist unverzichtbar. Das BMDT möchte daher Modelle für bundesweite Bürger\*innenentscheide entwickeln, die beide Seiten vereinen.
 

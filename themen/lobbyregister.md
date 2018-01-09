@@ -29,6 +29,6 @@ Lobbyismus findet in Deutschland weitgehend im Dunkeln statt. Nicht einmal die g
 Ein Lobbyregister stärkt demokratische Kontrolle, in dem es Journalist\*innen, Organisationen und Bürger\*innen Informationen über Einflussnahme und Verflechtungen zwischen Politik und Wirtschaft liefert. Es festigt durch umfangreiche Transparenz das Vertrauen der Bürger\*innen in unsere Demokratie.
 
 ## Kooperation mit Lobbycontrol und Abgeordnetenwatch
-Das BMDT bemüht sich um verstärkte Zusammenarbeit mit zivilgesellschaftlichen Organisationen. Für das verpflichtende Lobbyregister kooperieren wir mit den Initiativen Lobbycontrol und Abgeordnetenwatch. Sie haben bereits einen [Gesetzesentwurf für ein verpflichtendes Lobbyregister](https://www.lobbycontrol.de/schwerpunkt/lobbyregister/) vorgelegt, welchen das BMDT nach einer juristischen Prüfung übernehmen wird.
+Das BMDT bemüht sich um verstärkte Zusammenarbeit mit zivilgesellschaftlichen Organisationen. Für das verpflichtende Lobbyregister kooperieren wir mit den Initiativen Lobbycontrol und Abgeordnetenwatch. Sie haben bereits einen [Gesetzesentwurf für ein verpflichtendes Lobbyregister](https://lobbyregister.org/) vorgelegt, welchen das BMDT nach einer juristischen Prüfung übernehmen wird.
 
 Beide Initiativen werden den Prozess begleiten und kritisch evaluieren. Das BMDT bedankt sich herzlich für die Unterstützung!

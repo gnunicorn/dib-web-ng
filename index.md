@@ -52,7 +52,7 @@ title: 'Startseite'
 <div class="container">
   <div class="media">
     <div class="align-self-center media-body">
-      <blockquote class="blockquote text-center"><p style="font-size: 1.35em; font-style: italic;">Das Vertrauen in unsere Demokratie ist unbezahlbar. Wir brauchen mehr Mitbestimmung und Transparenz.
+      <blockquote class="blockquote text-center"><p style="font-size: 1.35em; font-style: italic;">Das Vertrauen in unsere Demokratie ist in Gefahr.
       </p>
         <footer class="blockquote-footer text-right"><a href="/ministerium/ministerin/">Katarina Barley, Bundesministerin</a></footer>
     </blockquote>

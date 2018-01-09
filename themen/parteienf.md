@@ -37,6 +37,6 @@ Wenn der Eindruck entsteht, dass Politik käuflich sei, verlieren die Bürger\*i
 
 ## Erste Parteien gehen bereits neue Wege
 
-Parteien wie Demokratie in Bewegung (DiB) zeigen bereits, dass eine Parteienfinanzierung möglich ist, die auf Unternehmensspenden verzichtet. DiB wurde dafür 2017 vom BMDT mit dem Willy-Brandt-Preis für Demokratie und Transparenz ausgezeichnet.
+Parteien wie [Demokratie in Bewegung](https://bewegung.jetzt) (DiB) zeigen bereits, dass eine Parteienfinanzierung möglich ist, die auf Unternehmensspenden verzichtet. DiB wurde dafür 2017 vom BMDT mit dem Willy-Brandt-Preis für Demokratie und Transparenz ausgezeichnet.
 
 Das Bundesministerium für Demokratie und Transparenz hat die [Kampagne “Demokratie darf kein Preisschild haben”](/service/kampagnen/preisschild/) ins Leben gerufen, um für eine Reform der Parteienfinanzierung zu werben.
