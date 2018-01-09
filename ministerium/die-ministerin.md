@@ -27,7 +27,9 @@ Daneben werden wir uns stark machen für mehr Mitbestimmung. Wir werden den erst
 Das Vertrauen in unsere Demokratie ist unbezahlbar. Wir müssen sie schützen vor ihren Feinden und weiterentwickeln mit ihren Freunden. Wir brauchen mehr Mitbestimmung und Transparenz.
 
 Ich bin froh und dankbar, als erste Bundesministerin für Demokratie und Transparenz mich diesen verantwortungsvollen Aufgaben annehmen zu dürfen und freue mich sehr auf meine neue Tätigkeit.
-
+<br />
+<br />
+<br />
 Ihre<br />
-Katarina Barley
+![Unterschrift von Katarina Barley](/assets/images/Katarina_Barley_signature.png)
 
