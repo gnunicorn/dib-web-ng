@@ -6,7 +6,7 @@ addons:
 env:
 - COBALT_BUILD_DIR: _site
 before_script:
-- cargo install cobalt-bin --features sass
+- cargo install --vers 0.9 cobalt-bin --features sass
 - export PATH="$PATH:/home/travis/.cargo/bin"
 script:
 - cobalt build
