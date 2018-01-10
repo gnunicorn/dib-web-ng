@@ -53,7 +53,7 @@ breadcrumb:
         </div>
         <div class="card-body">
             <p>Wir feiern die Demokratie! Am 15. September 2018, dem internationalen Tag der Demokratie. Mit einem großen Straßenfest <strong>vor dem Brandenburger Tor</strong>.</p>
-<p>Ab 11 Uhr bieten wir zahlreiche Aktionen, die Demokratie erlebbar machen: ein Bundestags-Planspiel, “Frag mich alles”-Runden mit zahlreichen Politikern sowie eine Open-Mic Session von der großartigen Initiative “Köln spricht!”.</p>
+<p>Ab 11 Uhr bieten wir zahlreiche Aktionen, die Demokratie erlebbar machen: ein Bundestags-Planspiel, “Frag mich alles”-Runden mit zahlreichen Politikern.</p>
 <p>Außerdem gibt es die üblichen Fressbuden und die Ministerin gibt einen aus.</p>
 <p>Ab 20 Uhr übernehmen die DJs. Wir tanzen auf der Straße des 17. Juni für Demokratie und gegen Nazis.</p>
         </div>
