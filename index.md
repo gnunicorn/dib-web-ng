@@ -3,102 +3,32 @@ extends: default.liquid
 title: 'Startseite'
 ---
 
-<div class="bg-primary">
-  <div class="container">
-    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-      <ol class="carousel-indicators">
-        <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-        <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-      </ol>
-      <div class="carousel-inner">
-        <div class="carousel-item active">
-          <img class="d-block w-100" src="/assets/images/kampagnen/preisschild.jpg" alt="Ein Mann zückt ein Umschlag aus der Innentasche seines Anzugs.">
-            <div class="carousel-caption d-none p-3 mb-5 bg-dark text-light d-md-block text-left" style="right: 55%;">
-              <h4 class="mb-3">Neue Kampagne: Demokratie darf kein Preisschild haben</h4>
-              <p>Die Macht der Konzerne wird immer größer. Das BMDT startet deshalb die Kampagne “Demokratie darf kein Preisschild haben”. Wir machen uns stark für neue Formen der Mitbestimmung. Denn Demokratie ist für alle da, unabhängig vom Geldbeutel.</p>
-              <p class="text-right"><a class="btn btn-outline-light" href="/service/kampagnen/preisschild/">mehr</a></p>
-            </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src="/assets/images/kampagnen/europa-konvent.jpg" alt="Ein Photo einer Europa-Karte, die mit Verbindungen übersäht ist.">
-            <div class="carousel-caption d-none p-3 mb-5 bg-light text-dark d-md-block text-left" style="bottom: auto; top: 40px;">
-              <h4 class="mb-3">Wie geht’s weiter mit Europa?</h4>
-              <h5>Jetzt anmelden zum Demokratie-Konvent!</h5>
-              <p>Wir brauchen neue Visionen für Europa! Melden Sie sich jetzt an zum 1. Demokratie-Konvent und <a href="/themen/demokratie-konvente/">diskutieren Sie mit.</a></p>
-            </div>
-        </div>
-        <div class="carousel-item">
-          <img class="d-block w-100" src="/assets/images/kampagnen/resist.jpg" alt="Ein Photo aus der Vogelperspektive auf dem Menschen auf einem Strand das Wort 'Resist' formen.">
-            <div class="carousel-caption d-none p-3 mb-5 bg-light text-dark d-md-block text-left" style="left: 55%;">
-              <h4 class="mb-3">Das BMDT fördert Deine Demokratie-Initiative mit 5000€!</h4>
-              <p>Deutschlandweit engagieren sich Tausende ehrenamtlich in Initiativen für mehr Demokratie und Transparenz. Doch oftmals fehlt das Geld. Das BMDT fördert deshalb Deine Demokratie-Initiative mit 5000€ ! Egal, ob Du Lobbyskandale aufdeckst oder Dich für kommunale Mitbestimmung einsetzt.</p>
-              <p class="text-center"><a href="/service/kampagnen/foerderung/" class="btn btn-outline-primary">Bewirb Dich jetzt!</a></p>
-            </div>
-        </div>
-      </div>
-      <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
-      </a>
-      <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-      </a>
-    </div>
-    </div>
-</div>
-
 <div class="container">
-  <div class="media">
-    <div class="align-self-center media-body">
-      <blockquote class="blockquote text-center"><p style="font-size: 1.35em; font-style: italic;">Das Vertrauen in unsere Demokratie ist in Gefahr. Wir brauchen mehr Mitbestimmung und Transparenz.
-      </p>
-        <footer class="blockquote-footer text-right"><a href="/ministerium/ministerin/">Katarina Barley, Bundesministerin</a></footer>
-    </blockquote>
-    </div>
-      <img class="m-5 align-self-center w-25 rounded-circle" src="/assets/images/barley.jpg" alt="Photo zeigt Katarina Barley." />
-  </div>
-</div>
-
-<div class="bg-light my-5 py-5">
-  <div class="container">
-    <h3 class="mb-4 row">Termine und Veranstaltungen</h3>
-    <div class="row">
-      <div class="col">
-          <div class="card border-light mb-3" style="max-width: 18rem;">
-            <div class="card-header">21. Jan</div>
-            <div class="card-body">
-              <h5 class="card-title">Neujahrsempfang</h5>
-              <p class="card-text">Das Bundesministerium für Demokratie und Transparenz lädt ein zum Neujahrsempfang mit Vertreter*innen aus Zivilgesellschaft und Politik.</p>
-            </div>
-          </div>
+  <div class="row">
+    <div class="col-md-8 m-0 p-0" style="position: relative; background: gray; overflow: hidden;">
+      <div class="embed-responsive embed-responsive-21by9" style="opacity: 0.75">
+        <video class="victories_video-video victories_video-hero_container-responsive-embed-video" loop="" muted="" poster="https://avaazimages.avaaz.org/victories/vicvideo-frame1.jpg" preload="auto" autoplay="autoplay" style="display: inline-block;">
+          <source src="https://avaazimages.avaaz.org/victories/avaaz_victories.mp4" type="video/mp4">
+          <source src="https://avaazimages.avaaz.org/victories/avaaz_victories.webm" type="video/webm">
+          <source src="https://avaazimages.avaaz.org/victories/avaaz_victories.ogv" type="video/ogg">
+        </video>
       </div>
-      <div class="col">
-          <div class="card border-light mb-3" style="max-width: 18rem;">
-            <div class="card-header">23.-26. Jan</div>
-            <div class="card-body">
-              <h5 class="card-title">World Democracy Summit</h5>
-              <p class="card-text">Diskutieren Sie in Davos über politische Bildung, Mitbestimmung im Alltag und Lobbyismus.</p>
-            </div>
-          </div>
-      </div>
-      <div class="col">
-          <div class="card border-light mb-3" style="max-width: 18rem;">
-            <div class="card-header">15. Sept</div>
-            <div class="card-body">
-              <h5 class="card-title">Demokratiefestival vor dem Brandenburger Tor</h5>
-              <p class="card-text">Wir feiern die Demokratie! Mit einem großen Straßenfest vor dem Brandenburger Tor am internationalen Tag der Demokratie. </p>
-            </div>
-          </div>
+      <div class="overlay" style="display: inline-block; position: absolute; bottom: 3em; left: -5px; transform: rotate(-5deg);">
+        <h1 class="text-white bg-primary px-4 m-0" style="display: inline-block">500.000 Menschen</h1>
+        <h3 class="text-white bg-primary px-4 m-0" style="display: inline-block; margin-top: -1px">Gemeinsams für ein zukünftiges Europa</h3>
       </div>
     </div>
-    <p class="text-right">
-        <a href="/service/veranstaltungen/" class="btn btn-outline-primary">Mehr Veranstaltungen</a>
-    </p>
+    <div class="col-md-4" " style="background: yellow">
+      Right Buzzer
+    </div>
   </div>
-</div>
-<div class="container">
-  <h3>Themen</h3>
-  {% include themen-nav.html %}
+  <div class="row mt-4 p-0">
+    <div class="col-md-6 pl-0">
+      <a href="" class="btn-lg p-3 m-0 w-100 btn btn-warning text-white rounded-0">Jetzt online mitmachen</a>
+    </div>
+    <div class="col-md-6 pr-0">
+      <a href="" class="btn-lg p-3 m-0 w-100 btn btn-success text-white rounded-0">Zu einem Treffen kommen</a>
+    </div>
+    </div>
+  </div>
 </div>
