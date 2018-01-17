@@ -16,8 +16,9 @@ $blue:    #274f9e;
 // $teal:    #20c997;
 // $cyan:    #17a2b8;
 
-$font-family-sans-serif:      "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
-$headings-font-family: 		  "Yrsa", "Montserrat", serif;
+$font-family-sans-serif:      "Merriweather", serif !default;
+$headings-font-family: 		  "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+;
 
 
 
@@ -66,15 +67,34 @@ $breadcrumb-divider:                "·";
 
 
 body {
-	border-top: 5px solid $blue;
+	&::before {
+		background: linear-gradient(90deg, #21466b, #62388E, #eb5c4a);
+		content: "";
+		height: 5px;
+		display: block;
+	}
+	font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+	font-weight: 500;
+}
+
+.btn {
+	font-family: $headings-font-family;
 }
 
 .navbar {
 	font-family: $headings-font-family;
-	font-size: 1.35em;
+	font-size: 1em;
 
 	.nav-item {
 		margin-left: 1em;
+	}
+	a {
+		color: black;
+		font-weight: 400;
+		opacity: 1;
 	}
 }
 
