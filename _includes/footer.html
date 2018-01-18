@@ -1,11 +1,82 @@
-<footer class="bd-footer mt-5 py-2">
+<footer class="mt-5 py-2">
+  <div class="text-white py-4" style="background: url(https://bewegung.jetzt/wp-content/uploads/2017/03/Ohne-Titel-2.001-1.jpeg); background-position: center center; background-size: cover">
+    <div class="container py-5">
+      <div class="row justify-content-between align-items-center">
+        <div class="col-md-5 py-5">
+          <h1>Die demokratische Revolution <u>braucht Dich!</u></h1>
+          <p>Text, der Menschen überzeugt zu spenden. Lorem Ipsum und so weiter und so fort - weißte selbst, kennste alles!</p>
+        </div>
+        <div class="col-md-5 py-5 h5">
+          <form class="donate" method="GET" action="https://bewegung.jetzt/spenden/">
+            <input type="hidden" name="pk_campaign" value="email-plakate-kick">
+            <div class="container">
+              <div class="row">
+                <div class="form-check col-md-3">
+                  <input class="form-check-input" type="radio" name="amount" id="five-hun" value="500">
+                  <label class="form-check-label" for="five-hun">
+                    500
+                  </label>
+                </div>
+                <div class="form-check col-md-3">
+                  <input class="form-check-input" type="radio" name="amount" id="two-hun" value="200">
+                  <label class="form-check-label" for="two-hun">
+                    200
+                  </label>
+                </div>
+                <div class="form-check col-md-3">
+                  <input class="form-check-input" type="radio" name="amount" id="one-hun" value="100">
+                  <label class="form-check-label" for="one-hun">
+                    100
+                  </label>
+                </div>
+                <div class="form-check col-md-3">
+                  <input class="form-check-input" type="radio" name="amount" id="fifty" value="50">
+                  <label class="form-check-label" for="fifty">
+                    50
+                  </label>
+                </div>
+              </div>
+              <div class="row mt-2">
+                <div class="form-check col-md-3">
+                  <input class="form-check-input" type="radio" name="amount" id="twenty" value="20">
+                  <label class="form-check-label" for="twenty">
+                    20
+                  </label>
+                </div>
+                <div class="form-check col-md-3">
+                  <input class="form-check-input" type="radio" name="amount" id="ten" value="10">
+                  <label class="form-check-label" for="ten">
+                    10
+                  </label>
+                </div>
+                <div class="form-check col-md-3">
+                  <input class="form-check-input" type="radio" name="amount" id="five" value="5">
+                  <label class="form-check-label" for="five">
+                    5
+                  </label>
+                </div>
+                <div class="form-check col-md-3">
+                  <input class="custom" placeholder="Anderer" type="number" name="amount-alternative" id="" value="">
+                </div>
+              </div>
+              <div class="row mt-2">
+                <div class="col text-right">
+                  <button class="btn btn-lg">Spenden!</button>
+                </div>
+              </div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
   <div class="container pt-5">
     <div class="row">
         <div class="col-sm">          
           <ul class="d-inline-flex align-content-center flex-row mb-3">
             <li class="text-uppercase">Besuche uns auf</li>
-            <li><a class="btn btn-outline-light border rounded-circle inline-icon" style="" href="https://twitter.com/{{site.data.globals.twitter}} ">{% include icons/twitter.svg %}</a></li>
-            <li><a class="btn btn-outline-light border rounded-circle inline-icon" style="" href="https://facebook.com/{{site.data.globals.facebook}} ">{% include icons/facebook.svg %}</a></li>
+            <li><a class="btn btn-outline-light border rounded-circle inline-icon" style="" href="https://twitter.com/{{site.data.globals.twitter}} ">{% include icons/brands/twitter.svg %}</a></li>
+            <li><a class="btn btn-outline-light border rounded-circle inline-icon" style="" href="https://facebook.com/{{site.data.globals.facebook}} ">{% include icons/brands/facebook.svg %}</a></li>
           </ul>
         </div>
         <div class="col-sm">
