@@ -12,7 +12,7 @@ script:
 - cobalt build
 
 before_deploy:
-- "openssl aes-256-cbc -K $encrypted_515e3de15721_key -iv $encrypted_515e3de15721_iv -in deploy_rsa.enc -in .deploy/deploy_rsa.enc -out /tmp/deploy_rsa -d"
+- "openssl aes-256-cbc -K $encrypted_bba04efac197_key -iv $encrypted_bba04efac197_iv -in .deploy/deploy_rsa.enc -out /tmp/deploy_rsa -d"
 - eval "$(ssh-agent -s)"
 - chmod 600 /tmp/deploy_rsa
 - ssh-add /tmp/deploy_rsa
@@ -21,14 +21,7 @@ deploy:
   - provider: script
     skip_cleanup: true
     script: "rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/$COBALT_BUILD_DIR/
-root@nick.bewegung.jetzt:/var/dib/bmdt/site"
+root@nick.bewegung.jetzt:/var/dib/website-ng/site"
     on:
       branch: master
-      condition: '"$TRAVIS_PULL_REQUEST" = "false"'
-  - provider: script
-    skip_cleanup: true
-    script: "rsync -r --delete-after --quiet $TRAVIS_BUILD_DIR/$COBALT_BUILD_DIR/
-root@nick.bewegung.jetzt:/var/dib/bmdt-dev/site"
-    on:
-      branch: dev
       condition: '"$TRAVIS_PULL_REQUEST" = "false"'
