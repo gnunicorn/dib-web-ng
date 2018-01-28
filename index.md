@@ -39,13 +39,10 @@ background-size: cover; background-position: bottom center;">
   </div>
   <form class="row mt-4 p-0 bg-secondary text-white align-items-center">
     <div class="col-md-5 p-3 text-left text-uppercase">
-      Immer auf dem Neuesten per E-Mail
+      Immer auf dem Neuesten bleiben
     </div>
-    <div class="col-md-3 px-1 mx-0">
-        <input class="w-100 form-control" placeHolder="E-Mail-Adresse" />
-    </div>
-    <div class="col-md-2 px-1 mx-0">
-        <input class="w-100 form-control " placeHolder="PLZ" />
+    <div class="col-md-5 px-1 mx-0">
+        <input class="w-100 form-control" placeHolder="E-Mail-Adresse oder Handy-Nr" />
     </div>
     <div class="col p-0 mr-0">
         <button class=" btn btn-primary" type="submit">eintragen</button>

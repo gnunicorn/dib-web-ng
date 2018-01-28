@@ -1,0 +1,128 @@
+layout: simple
+extends: default.liquid
+path: /veranstaltungen
+title: 'Veranstaltungen'
+---
+
+<div class="container">
+  <div class="row justify-content-center ">
+    <div class='alert alert-info col-md-10 my-3'>
+      <button type="button" class="close" aria-label="Close">
+        <span aria-hidden="true">&times;</span>
+      </button>
+      <h1>Sei dabei!</h1>
+      <p >Diese Seite zeigt Veranstaltungen, die wir bundesweit organisieren oder daran Teilnehmen. Nutze die Such- und Filter-Funktionen um eine Veranstaltung bei dir in der Nähe zu finden. Du kannst auch Benachrichtigungen zu Deinen Filter-Einstellungen einrichten um keine Veranstaltung mehr zu verpassen!</p>
+    </div>
+  </div>
+  <div class="mt-5">
+    <div class="row">
+      <div class="col-md-9 bg-light border ">
+        <form class="form-inline">
+          <label class="sr-only" for="inlineFormInputGroupUsername2">Username</label>
+          <div class="input-group col-9 mb-2 mr-sm-2">
+            <div class="input-group-prepend">
+              <div class="input-group-text"><span class="inline-icon">{% include "icons/solid/crosshairs.svg" %}</span></div>
+            </div>
+            <input type="text" class="form-control" id="inlineFormInputGroupUsername2" placeholder="Ort eingeben">
+          </div>
+          <div class="col">
+            <button type="submit" class="btn btn-lg btn-outline-primary ">Filtern</button>
+          </div>
+          <div class="col-12">
+            <a class="text-muted" data-toggle="collapse" href="#mehrFilter" role="button" aria-expanded="false" aria-controls="mehrFilter">
+              Weitere Filter <span class="badge badge-secondary">3</span>
+            </a> <br>
+            <div class="collapse m-2" id="mehrFilter">
+            <strong>Zeige nur: </strong>
+            <div class="custom-control custom-control-inline custom-checkbox">
+              <input checked type="checkbox" class="custom-control-input" id="customCheck1">
+              <label class="custom-control-label" for="customCheck1">Parteitage</label>
+            </div>
+            <div class="custom-control custom-control-inline custom-checkbox">
+              <input checked type="checkbox" class="custom-control-input" id="customCheck1">
+              <label class="custom-control-label" for="customCheck1">Mitgliedertreffen</label>
+            </div>
+            <div class="custom-control custom-control-inline custom-checkbox badge badge-info pl-4">
+              <input checked type="checkbox" class="custom-control-input" id="customCheck1">
+              <label class="custom-control-label" for="customCheck1">DiB Tische</label>
+            </div>
+            <div class="custom-control custom-control-inline custom-checkbox">
+              <input type="checkbox" class="custom-control-input" id="customCheck1">
+              <label class="custom-control-label" for="customCheck1">Auftritte </label>
+            </div>
+            <div class="custom-control custom-control-inline custom-checkbox">
+              <input type="checkbox" class="custom-control-input" id="customCheck1">
+              <label class="custom-control-label" for="customCheck1">Demos</label>
+            </div>
+          </div>
+          </div>
+          
+        </form>
+      </div>
+      <div class="col-md-3">
+        <img class="w-100 border" src="/assets/images/map-example.png" />
+      </div>
+    </div>
+  </div>
+
+  <div class="row my-4 align-top">
+    <div class="col-md-2 text-white bg-info d-flex flex-column justify-content-end" style="min-height: 10rem">
+      <span class="font-weight-light">Berlin</span>
+      <span class="h2 p-0 m-0 text-uppercase">
+      <strong>25</strong> Jan</span>
+    </div>
+    <div class="col-md-10 justify-content-start">
+      <h2 class="my-0"> Demokratie und Transparenz </h2>
+      <p class="text-muted"><span class="text-info">DiB Tisch</span> 25. Jan 2018 19:00 - 22:00, <a href="">Cafe Madame, Berlin</a></p>
+      <p >Hallo liebe Berliner*innen, seit dem 9.1.2018 ist das neue “ Bundesministerium für Demokratie und Transparenz ” (zumindest online) aktiv! Die öffentlichkeitswirksame Aktion wurde von unserem neuen Kampagnenteam geplant und durchgeführt. Am DiB-Tisch diese Woche wird Anett, die auch bei dem Richtf...
+      </p>
+
+    </div>
+  </div>
+
+  <div class="row my-4 align-top">
+    <div class="col-md-2 text-white bg-primary d-flex flex-column justify-content-end" style="min-height: 10rem">
+      <span class="font-weight-light">Berlin</span>
+      <span class="h2 p-0 m-0 text-uppercase">
+      <strong>31</strong> Jan</span>
+    </div>
+    <div class="col-md-10 justify-content-start">
+      <h2 class="my-0">Mitgliedertreffen Berlin</h2>
+      <p class="text-muted"><span class="text-primary">Mitgliedertreffen</span> 31. Jan 2018 18:00 - 20:00, <a href="">KitCafe, Düsseldorf</a></p>
+      <p >Hallöchen! Neuer DiB-Tisch in der Rheinischen Metropole Düsseldorf. Zum Austausch innerhalb unserer Partei über Düsseldorfer Themen lade ich euch herzlich zum 14. Februar (Aschermittwoch) um 18.00 Uhr zum KIT Cafe auf dem Rheinufer ein.
+      </p>
+    </div>
+  </div>
+
+  <div class="row my-4 align-top">
+    <div class="col-md-2 text-white bg-warning d-flex flex-column justify-content-end" style="min-height: 10rem">
+      <span class="font-weight-light">Berlin</span>
+      <span class="h2 p-0 m-0 text-uppercase">
+      <strong>8</strong> Feb</span>
+    </div>
+    <div class="col-md-10 justify-content-start">
+      <h2 class="my-0">Kopf des Monats: Lea Brunn</h2>
+      <p class="text-muted"><span class="text-warning">Auftritt</span> 8. Feb 2018 18:00 - 20:00, <a href="">Basecamp, Berlin</a></p>
+      <p >young+restless zeichnet Bundesvorstandsmitglied Lea Brunn als "Kopf des Monats" aus - eine junge Person, der aus Sicht von young+restless mehr Aufmerksamkeit zukommen sollte. An der Diskussion nehmen Ricarda Land, Bundessprecherin der Grünen Jugend, Noro Schlorke, Bundessprecherin der linksjugend.solid, Phil Hackemann, stellv. Bundesvorsitzender JuLis, und Bastian Schneider, stellv. Bundesvorsitzender JU teil.
+      </p>
+    </div>
+  </div>
+
+  <div class="row my-4 align-top">
+    <div class="col-md-2 text-white bg-info d-flex flex-column justify-content-end" style="min-height: 10rem">
+      <span class="font-weight-light">Düsseldorf</span>
+      <span class="h2 p-0 m-0 text-uppercase">
+      <strong>14</strong> Feb</span>
+    </div>
+    <div class="col-md-10 justify-content-start">
+      <h2 class="my-0">DiB-Tisch Rheinufer</h2>
+      <p class="text-muted"><span class="text-info">DiB Tisch</span> 14. Feb 2018 18:00 - 20:00, <a href="">KitCafe, Düsseldorf</a></p>
+      <p >Hallöchen! Neuer DiB-Tisch in der Rheinischen Metropole Düsseldorf. Zum Austausch innerhalb unserer Partei über Düsseldorfer Themen lade ich euch herzlich zum 14. Februar (Aschermittwoch) um 18.00 Uhr zum KIT Cafe auf dem Rheinufer ein.
+      </p>
+    </div>
+  </div>
+
+
+
+</div>
+

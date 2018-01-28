@@ -17,7 +17,7 @@ $blue:    #274f9e;
 // $cyan:    #17a2b8;
 
 $font-family-sans-serif:      "Merriweather", serif !default;
-$headings-font-family: 		  "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$headings-font-family:      "Rubik", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol" !default;
 ;
 
 
@@ -67,99 +67,100 @@ $breadcrumb-divider:                "·";
 
 
 body {
-	&::before {
-		background: linear-gradient(90deg, #21466b, #62388E, #eb5c4a);
-		content: "";
-		height: 5px;
-		display: block;
-	}
-	font-weight: 300;
+  &::before {
+    background: linear-gradient(90deg, #21466b, #62388E, #eb5c4a);
+    content: "";
+    height: 5px;
+    display: block;
+  }
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5 {
-	font-weight: 500;
+  font-weight: 500;
 }
 
 .btn {
-	font-family: $headings-font-family;
+  font-family: $headings-font-family;
 }
 
 .navbar {
-	font-family: $headings-font-family;
-	font-size: 1em;
+  font-family: $headings-font-family;
+  font-size: 1em;
 
-	.nav-item {
-		margin-left: 1em;
-	}
-	a {
-		color: black;
-		font-weight: 400;
-		opacity: 1;
-	}
+  .nav-item {
+    margin-left: 1em;
+  }
+  a {
+    color: black;
+    font-weight: 400;
+    opacity: 1;
+  }
 }
 
 
 .inline-icon {
-	display:inline-block;
-	width: 2em;
-	line-height: 2em; 
-	height: 2em;
-	padding: 0;
-	svg {
-	  width: 1em;
-	  height: 1em;
-	  padding: 0;
-	  margin: 0;
-	}
+  display:inline-block;
+  width: 2em;
+  line-height: 2em; 
+  height: 2em;
+  padding: 0;
+  svg {
+    width: 1em;
+    height: 1em;
+    padding: 0;
+    margin: 0;
+  }
 }
 
 footer.bd-footer {
-	background: $blue;
-	color: white;
-	ul {
-		list-style: none;
-		margin: 0;
-		padding: 0;
-		li {
-			display: inline-block;
-			padding-right: 1em;
-		}
-	}
-	a {
-		color: white;
-	}
+  background: $blue;
+  color: white;
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    li {
+      display: inline-block;
+      padding-right: 1em;
+    }
+  }
+  a {
+    color: white;
+  }
 }
 
 main {
-	h2 {
-	  margin-top: 2em;
-	  margin-bottom: 0.30em;
-	}
+  h2 {
+    margin-top: 2em;
+    margin-bottom: 0.30em;
+  }
 
-	h3 {
-	  margin-top: 1.25em;
-	  margin-bottom: 0.45em;
-	}
+  h3 {
+    margin-top: 1.25em;
+    margin-bottom: 0.45em;
+  }
 
-	.btn {
-  		margin: 1em;
-	}
+  .btn {
+      margin: 1em;
+  }
 }
 
+
 .donate {
-	.form-check-input {
-		display: none;
-	}
-	.form-check-label, .custom {
-		width: 100%;
-		line-height: 2em;
-		text-align: center;
-		display: block;
-		color: white;
-		border: 1px solid white;
-		background: transparent;
-	}
-	.form-check-input:checked + .form-check-label {
-		background: red;
-	}
+  .form-check-input {
+    display: none;
+  }
+  .form-check-label, .custom {
+    width: 100%;
+    line-height: 2em;
+    text-align: center;
+    display: block;
+    color: white;
+    border: 1px solid white;
+    background: transparent;
+  }
+  .form-check-input:checked + .form-check-label {
+    background: red;
+  }
 }
