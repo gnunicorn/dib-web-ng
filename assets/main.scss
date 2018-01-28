@@ -146,6 +146,38 @@ main {
   }
 }
 
+.card-header-overlay {
+  position: relative;
+  .card-header {
+    position: absolute;
+    bottom: 0;
+    // left: 50%;
+    // width: 100%; 
+    // transform: translateX(-100%);
+    .card-title {
+      background: transparentize($blue, .2);
+      padding: 0.1em 0em;
+      display: inline;
+      a {
+        color: white;
+      }
+    }
+  }
+}
+
+quote {
+  // &:before {
+  //   content: "\"";
+  //   font-size: 4em;
+  //   color: rgba(255, 255, 255, 0.6);
+  //   display: inline-block;
+  //   margin: -100%;
+  // }
+  &:first-letter {
+    font-size: 2em;
+  }
+}
+
 
 .donate {
   .form-check-input {
