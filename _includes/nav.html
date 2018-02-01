@@ -1,3 +1,50 @@
+<div class="modal fade" id="subscribeNowModal" tabindex="-1" role="dialog" aria-labelledby="subscribeNowModalTitle" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="subscribeNowModalTitle">Wie willst auf dem Laufenden bleiben?</h5>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+          <span aria-hidden="true">&times;</span>
+        </button>
+      </div>
+      <div class="modal-body">
+        <p>Wie möchtest Du gerne über Neuigkeiten von <strong>DEMOKRATIE IN BEWEGUNG</strong> auf dem Laufenden gehalten werden?</p>
+        <p>
+          <button onClick="javascript:OneSignal.showHttpPrompt();" class="btn btn-outline-primary" data-toggle="collapse" data-target="#webNotifyHelp"><span class="inline-icon">{% include "icons/solid/bullseye.svg" %}</span> Web</button>
+          <button class="btn btn-outline-primary" data-toggle="collapse" data-target="#emailSubscribe"><span class="inline-icon">{% include "icons/regular/envelope.svg" %}</span> E-Mail</button>
+          <button class="btn btn-outline-primary" data-toggle="collapse" data-target="#whatsAppSubscribe"><span class="inline-icon">{% include "icons/brands/whatsapp.svg" %}</span>WhatsApp</button>
+          <button class="btn btn-outline-primary" data-toggle="collapse" data-target="#SMSSubscribe"><span class="inline-icon">{% include "icons/solid/mobile-alt.svg" %}</span>SMS</button>
+        </p>
+        <div id="options">
+          <div class="collapse" id="webNotifyHelp" data-parent="#subscribeNowModal">
+            <div class="alert alert-info">
+              <strong>Gerne!</strong> Dafür brauchen wir dann jetzt nur Dein Einverständnis Dir Nachricten an den Browser zu schicken!
+            </div>
+          </div>
+          <div class="collapse" id="emailSubscribe" data-parent="#subscribeNowModal">
+            <div class="alert alert-info">
+              <strong>Gerne!</strong> Dann brauchen wir nur noch deine E-Mail-Adresse:
+              <form><input class="form-element" placeholder="E-Mail-Adresse" type="email"> <button type="submit" class="btn btn-primary">eintragen</button></form>
+            </div>
+          </div>
+          <div class="collapse" id="whatsAppSubscribe" data-parent="#subscribeNowModal">
+            <div class="alert alert-info">
+              <strong>Gerne!</strong> Dann brauchen wir nur noch deine WhatsApp Nummer:
+              <form><input class="form-element" placeholder="+49.0151.1234.1234" type="email"> <button type="submit" class="btn btn-primary">eintragen</button></form>
+            </div>
+          </div>
+          <div class="collapse" id="SMSSubscribe" data-parent="#subscribeNowModal">
+            <div class="alert alert-info">
+              <strong>Gerne!</strong> Dann brauchen wir nur noch deine Handy-Nummer:
+              <form><input class="form-element" placeholder="+49.0151.1234.1234" type="email"> <button type="submit" class="btn btn-primary">eintragen</button></form>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
 <div class="container">
   <nav class="row no-gutters navbar navbar-expand-lg align-items-center p-0 mt-1 mb-3">
     <a class="navbar-brand col-md-2 m-0" href="/"><img style="width: 100%;" class="mx-0 p-0 my-3 " src="/assets/images/logo/dib_logo.svg" alt="Der Schriftzug 'Demokratie in Bewegung'" /></a>

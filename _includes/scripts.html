@@ -3,20 +3,30 @@
         integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
         crossorigin="anonymous"></script>
         
-<script src="{{ site.baseurl }}/assets/bootstrap.bundle.min.js"></script>
+<script src="/assets/bootstrap.bundle.min.js"></script>
+<script type="text/javascript">
+  var _html = document.documentElement;
 
+  function showSubscribeNowModal() {
+    $('#subscribeNowModal').modal('show');
+    console.log('showmodal')
+  }
+
+  _html.addEventListener('mouseleave', showSubscribeNowModal);
+  console.log("after")
+</script>
 
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
-  _paq.push(["setCookieDomain", "*.bmdt-bund.de"]);
+  _paq.push(["setCookieDomain", "*.bewegung.jetzt"]);
   _paq.push(["setDoNotTrack", true]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
     var u="//analytics.bmdt-bund.de/";
     _paq.push(['setTrackerUrl', u+'piwik.php']);
-    _paq.push(['setSiteId', '5']);
+    _paq.push(['setSiteId', '1']);
     var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
     g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
   })();
