@@ -9,11 +9,10 @@
 
   function showSubscribeNowModal() {
     $('#subscribeNowModal').modal('show');
-    console.log('showmodal')
+    _html.removeEventListener('mouseleave', showSubscribeNowModal);
   }
 
   _html.addEventListener('mouseleave', showSubscribeNowModal);
-  console.log("after")
 </script>
 
 <!-- Piwik -->
