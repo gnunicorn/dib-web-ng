@@ -5,12 +5,15 @@
 
 @mixin button-variant($background, $border, $hover-background: darken($background, 7.5%), $hover-border: darken($border, 10%), $active-background: darken($background, 10%), $active-border: darken($border, 12.5%)) {
   color: color-yiq($background);
+  fill: color-yiq($background);
   @include gradient-bg($background);
   border-color: $border;
   @include box-shadow($btn-box-shadow);
 
+
   @include hover {
     color: color-yiq($hover-background);
+    fill: color-yiq($hover-background);
     @include gradient-bg($hover-background);
     border-color: $hover-border;
   }
@@ -55,12 +58,14 @@
 
 @mixin button-outline-variant($color, $color-hover: #fff, $active-background: $color, $active-border: $color) {
   color: $color;
+  fill: $color;
   background-color: transparent;
   background-image: none;
   border-color: $color;
 
   &:hover {
     color: color-yiq($color);
+    fill: color-yiq($color);
     background-color: $active-background;
     border-color: $active-border;
   }
