@@ -15,6 +15,55 @@
   _html.addEventListener('mouseleave', showSubscribeNowModal);
 </script>
 
+<script type="text/javascript">
+  function _show_profile(jq) {
+    jq.removeClass('col-md-2').addClass('col-md-12');
+    jq.find('.details').show();
+    jq.find('.teaser').hide();
+  }
+  function _hide_profile(jq) {
+    jq.removeClass('col-md-12').addClass("col-md-2")
+    jq.find('.details').hide();
+    jq.find('.teaser').show();
+  }
+
+  $('.profile-grid .card').click(function(e){
+    let $t = $(this);
+    _hide_profile($t.parent().find(".col-md-12"));
+    _show_profile($t);
+
+  })
+</script>
+<style type="text/css">
+  .profile-grid .details {
+    display: none;
+  }
+
+  .profile-grid .card .teaser {
+    cursor: pointer;
+  }
+
+  .profile-grid .card .teaser img {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
+    filter: gray; /* IE 6-9 */;
+    transition: filter 1s ease;
+  }
+  .profile-grid .card:hover .teaser img {
+    -webkit-filter: unset;
+    -moz-filter: unset;
+    -ms-filter: unset;
+    -o-filter: unset;
+    filter: unset;
+  }
+  .interview {
+    columns: 3;
+  }
+</style>
+
 <!-- Piwik -->
 <script type="text/javascript">
   var _paq = _paq || [];
