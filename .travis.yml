@@ -1,13 +1,17 @@
 sudo: false
-language: rust
 addons:
   ssh_known_hosts: nick.bewegung.jetzt
-
 env:
-- COBALT_BUILD_DIR: _site
+- COBALT_BUILD_DIR: build
 before_script:
-- cargo install --vers 0.9 cobalt-bin --features sass
-- export PATH="$PATH:/home/travis/.cargo/bin"
+  - curl -LSfs https://japaric.github.io/trust/install.sh |
+    sh -s --
+    --git cobalt-org/cobalt.rs
+    --crate cobalt
+    --force
+    --target x86_64-unknown-linux-gnu
+    --tag v0.9.0
+  - export PATH="$PATH:~/.cargo/bin"
 script:
 - cobalt build
 
