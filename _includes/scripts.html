@@ -16,6 +16,7 @@
 </script>
 
 <script type="text/javascript">
+$(function(){
   function _show_profile(jq) {
     jq.removeClass('col-md-2').addClass('col-md-12');
     jq.find('.details').show();
@@ -31,8 +32,21 @@
     let $t = $(this);
     _hide_profile($t.parent().find(".col-md-12"));
     _show_profile($t);
-
+    this.scrollIntoView({ 
+      behavior: 'smooth' 
+    });
   })
+
+  let id = document.location.hash.slice(1);
+  if (id.length) {
+    console.log(id);
+    _show_profile($('#' + id));
+    document.querySelector('#' + id).scrollIntoView({ 
+      behavior: 'smooth' 
+    });
+  }
+
+} )
 </script>
 <style type="text/css">
   .profile-grid .details {
