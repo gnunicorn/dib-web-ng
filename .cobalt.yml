@@ -4,7 +4,7 @@ description: Die Webseite des neuen Bundesministerium für Demokratie und Transp
 
 
 source: "."
-dest: "./build"
+dest: "./_site"
 sass:
   style: Compressed
 
