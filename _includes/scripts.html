@@ -8,11 +8,17 @@
   var _html = document.documentElement;
 
   function showSubscribeNowModal() {
-    $('#subscribeNowModal').modal('show');
+    $('#subscribeNowModal').modal('show').on('hide.bs.modal', function(){
+      // keep quiet for 10 days on this system
+      document.cookie = 'leavingPopupShownAndReacted=true; max-age=' + 60*60*24*10
+      // on a positive reaction, keep quiet forever.
+    })
     _html.removeEventListener('mouseleave', showSubscribeNowModal);
   }
 
-  _html.addEventListener('mouseleave', showSubscribeNowModal);
+  if (document.cookie.replace(/(?:(?:^|.*;\s*)leavingPopupShownAndReacted\s*\=\s*([^;]*).*$)|^.*$/, "$1") !== "true") {
+    _html.addEventListener('mouseleave', showSubscribeNowModal);
+  }
 </script>
 
 <script type="text/javascript">
@@ -39,7 +45,6 @@ $(function(){
 
   let id = document.location.hash.slice(1);
   if (id.length) {
-    console.log(id);
     _show_profile($('#' + id));
     document.querySelector('#' + id).scrollIntoView({ 
       behavior: 'smooth' 
