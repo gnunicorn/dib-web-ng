@@ -1,9 +1,9 @@
 <script
-        src="/assets/jquery-3.2.1.slim.min.js"
-        integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g="
+        src="/assets/jquery-3.3.1.min.js"
         crossorigin="anonymous"></script>
         
 <script src="/assets/bootstrap.bundle.min.js"></script>
+<script src="https://secure.fundraisingbox.com/js/jquery.fundraisingbox.min.js"></script>
 <script type="text/javascript">
   var _html = document.documentElement;
 
@@ -20,7 +20,24 @@
     _html.addEventListener('mouseleave', showSubscribeNowModal);
   }
 </script>
+<script>
+  // Donation Form on bottom
+$(function() {
+    window.dForm = $("#donationForm").fundraisingBoxForm({
+        hash: "etw2tjn1o1ecw38z" // replace {your_form_hash} with your hash without {}-brackets
+    });
 
+    $('.js-switch-to-donate').click(function() {
+      var amnt = $('input[name=amount]:checked').val();
+      $('.js-amount-lbl').text(amnt);
+      $('.js-amount-value').val(amnt);
+      $("#donationCarousel").carousel(1);
+    });
+    $('.js-switch-to-amounts').click(function() {
+      $("#donationCarousel").carousel(0);s
+    });
+});
+</script>
 <script type="text/javascript">
 $(function(){
   function _show_profile(jq) {
